@@ -149,7 +149,9 @@
         <div id="benefits_icons">
             <div class="row text-center">
                 <!--First column first 3-->
-                    <div class="col-md-4">
+                <div class="col-xs-12 col-sm-12  col-md-4 col-lg-4 padding-0">
+
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/brain.png" class="img-responsive img-circle center-block" alt="">
@@ -161,7 +163,7 @@
                                 LivEver protects the brain by reducing oxidative damage in the neuronal cells </p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/heart.png" class="img-responsive img-circle center-block" alt="">
@@ -174,18 +176,23 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/detox.png" class="img-responsive img-circle center-block" alt="">
                             </div>
                             <hr class="hr-blue">
-                            <p class="benefits_label blue">DETOXIFIES THE BODY</p>
+                            <p class="benefits_label blue">DETOXIFIES <br>THE<br> BODY</p>
                             <hr class="hr-blue">
                             <p class="benefits_description blue">LivEver protects the body by removing toxins and rebuilding liver cells.</p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/muscle.png" class="img-responsive img-circle center-block"
@@ -197,7 +204,7 @@
                             <p class="benefits_description yellow">LivEver promotes a healthy inflammatory response and eases aches and pains.</p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/digestion.png" class="img-responsive img-circle center-block"
@@ -209,7 +216,7 @@
                             <p class="benefits_description blue">LivEver transports intestinal water and electrolytes and improves intestinal permeability.</p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/mood.png" class="img-responsive img-circle center-block" alt="">
@@ -221,7 +228,12 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                </div>
+
+                <!--Third column last 3-->
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/skin.png" class="img-responsive img-circle center-block" alt="">
@@ -232,7 +244,7 @@
                             <p class="benefits_description blue">LivEver promotes soft, smooth, glowing skin and fights signs of aging such as fine lines and wrinkles. </p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/inflammation.png" class="img-responsive img-circle center-block"
@@ -244,7 +256,7 @@
                             <p class="benefits_description yellow">LivEver lowers levels of inflamatory markers.</p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/icons/energy.png" class="img-responsive img-circle center-block"
@@ -279,14 +291,15 @@
 
             <div class="row">
                 <!--First column first 3-->
-                    <div class="col-md-4 col-lg-4">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/milk_thistle.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
                             <hr class="hr-blue">
-                            <p class="benefits_label blue">MILK THISTLE EXTRACT</p>
+                            <p class="benefits_label">MILK THISTLE EXTRACT</p>
                             <hr class="hr-blue">
                             <p class="benefits_description blue">
                                 Has antioxidant and anti-inflammatory effects that protect
@@ -296,14 +309,14 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/ALA.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
                             <hr class="hr-yellow">
-                            <p class="benefits_label yellow">ALPHA LIPOIC ACID</p>
+                            <p class="benefits_label">ALPHA LIPOIC ACID</p>
                             <hr class="hr-yellow">
                             <p class="benefits_description yellow">
                                 Alpha Lipoic Acid considered as the “super antioxidant” that
@@ -313,14 +326,14 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/turmeric.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
                             <hr class="hr-blue">
-                            <p class="benefits_label blue">TURMERIC POWDER</p>
+                            <p class="benefits_label">TURMERIC POWDER</p>
                             <hr class="hr-blue">
                             <p class="benefits_description blue">
                                 Turmeric is known for its potent antioxidative and a
@@ -329,14 +342,18 @@
                         </div>
                     </div>
 
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/beans.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
                             <hr class="hr-yellow">
-                            <p class="benefits_label yellow">PHOSPATIDYL CHOLINE</p>
+                            <p class="benefits_label">PHOSPATIDYL CHOLINE</p>
                             <hr class="hr-yellow">
                             <p class="benefits_description yellow">
                                 It is made up of phosphates, fatty acids, and Choline. All of
@@ -347,14 +364,14 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/mani.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
                             <hr class="hr-blue">
-                            <p class="benefits_label blue">ZINC<br>SULFATE</p>
+                            <p class="benefits_label">ZINC<br>SULFATE</p>
                             <hr class="hr-blue">
                             <p class="benefits_description blue">
                                 Serves as a cofactor for many enzymatic reactions. Required
@@ -362,14 +379,14 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/karne%20copia.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
                             <hr class="hr-yellow">
-                            <p class="benefits_label yellow">CALCIUM PANTOTHENATE</p>
+                            <p class="benefits_label">CALCIUM PANTOTHENATE</p>
                             <hr class="hr-yellow">
                             <p class="benefits_description yellow">
                                 It is also known as Vitamin B5, which regulates energy
@@ -379,14 +396,20 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+
+                </div>
+
+                <!--Third column last 3-->
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/b1.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
                             <hr class="hr-blue">
-                            <p class="benefits_label blue">VITAMIN <br>B1
+                            <p class="benefits_label">VITAMIN <br>B1
                                 <small>(THIAMINE)</small>
                             </p>
                             <hr class="hr-blue">
@@ -398,14 +421,14 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/b6.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
                             <hr class="hr-yellow">
-                            <p class="benefits_label yellow">VITAMIN B6
+                            <p class="benefits_label">VITAMIN B6
                                 <small>(PYRIDOXINE)</small>
                             </p>
                             <hr class="hr-yellow">
@@ -417,14 +440,14 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 col-md-4 ">
+                    <div class="col-xs-12 col-sm-4 col-md-4 padding-0">
                         <div class="box">
                             <div class="box-icon">
                                 <img src="assets/ingredients/b12.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
                             <hr class="hr-blue">
-                            <p class="benefits_label blue">VITAMIN B12
+                            <p class="benefits_label">VITAMIN B12
                                 <small>(Cyanocobalamine)</small>
                             </p>
                             <hr class="hr-blue">
@@ -436,6 +459,7 @@
                         </div>
                     </div>
 
+                </div>
             </div>
         </div>
 

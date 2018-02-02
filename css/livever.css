@@ -10,7 +10,6 @@ body{
     position: relative;
     margin: 20% auto 0;
     z-index: 1;
-    background-color: #A6F0EE;
     border-radius: 10px;
     text-align: center;
 
@@ -51,6 +50,7 @@ body{
     margin: 0;  
     line-height: 15px;
     font-size:10px;
+    display:none;
 }
 .benefits_label {
     margin: 0;
@@ -79,8 +79,8 @@ body{
 }
 
 .padding-0{
-    padding-right:0;
-    padding-left:0;
+    padding-right:10%;
+    padding-left:10%;
 }
 
 small{
