@@ -4,10 +4,7 @@
 
 /* IPAD PRO*/
 @media only screen and (min-height: 1366px) and (max-height: 1366px) {
-    .padding-0{
-        padding-right:0;
-        padding-left:0;
-    }
+
     .mainmenu-area #primary-menu > ul > li > a {
         padding: 30px 12px;
     }
@@ -16,7 +13,7 @@
     }
     .price-table,
     .box {
-        padding: 30px 15px;
+        padding: 0;
     }
     .price-table.active {
         padding: 50px 15px;
@@ -73,13 +70,155 @@
     
     .benefits_label {
         margin: 0;
-        line-height: 15px;
-        font-size:10px;
-        font-weight: bold;
+        line-height:20px;
+        font-size:8px;
+        padding:3% 0;
+    }
+    .benefits_description{
+        font-size:8px;
     }
 
 }
 
+/* IPAD */
+@media only screen and (width: 768px) and (height: 1024px) {
+
+
+    .mainmenu-area #primary-menu > ul > li > a {
+        padding: 30px 12px;
+    }
+    .header-area {
+        padding-top: 80px;
+    }
+    .price-table,
+    .box {
+        padding: 0;
+        background-color:pink;
+    }
+    .price-table.active {
+        padding: 50px 15px;
+    }
+    .single-team {
+        margin-bottom: 30px
+    }
+    .side-icon-boxes {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+
+
+    #dp {
+        position: absolute;
+        /*left: 30%;*/
+        margin: -30% auto;
+        z-index: 2;
+        text-align: center;
+        width: 100%;
+
+    }
+    #dp img{
+        width:60%;
+        height:auto;
+    }
+
+    #benefits_icons {
+        position: relative;
+        padding: 20% 5% 5%;
+    }
+
+    #dp_ingredients {
+        position: absolute;
+        /*left: 30%;*/
+        margin: -25% auto;
+        z-index: 2;
+        text-align: center;
+        width: 100%;
+    }
+
+    #ingredients_icons {
+        position: relative;
+        padding: 20% 5% 5%;
+    }
+    .box{
+        padding:0 !important;
+    }
+    .box .box-icon{
+        vertical-align: middle;
+        height:100%;
+        background-color:#21a4b6;
+    }
+    .box .box-icon img{
+        width:80% !important;
+        height:auto;
+    }
+
+    .box .box-icon-olive{
+        vertical-align: middle;
+        height:100%;
+        background-color:#C7D282;
+    }
+    .box .box-icon-olive img{
+        width:80% !important;
+        height:auto;
+    }
+
+    .content {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .benefits_label {
+        margin: 0;
+        line-height: 10px;
+        font-size:10px;
+        padding:3% 0;
+    }
+    .benefits_label {
+        margin: 0;
+        line-height: 10px;
+        font-size:10px;
+        padding:3% 0;
+    }
+
+    .benefits_label_long{
+        margin: 0;
+        line-height: 10px;
+        font-size:20px;
+        padding:3% 0;
+    }
+
+
+    .arrow-right-blue {
+        position:absolute;
+        top:35%;
+        left:95%;
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+
+        border-left: 20px solid #21a4b6;
+    }
+    .arrow-right-olive {
+        position:absolute;
+        top:35%;
+        left:95%;
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+
+        border-left: 20px solid #C7D282;
+    }
+}
 /* Tablet Layout: 768px. */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -189,7 +328,7 @@
         overflow: hidden;
     }
     .box {
-        padding: 30px 15px;
+        padding:0;
     }
     .box .box-icon {
         height: auto;
@@ -280,7 +419,7 @@
         overflow: hidden;
     }
     .box {
-        padding: 30px 15px;
+        padding: 0;
     }
     .box .box-icon {
         height: auto;
@@ -376,7 +515,7 @@
         overflow: hidden;
     }
     .box {
-        padding: 10px;
+        padding: 0;
     }
     .single-blog,
     .single-team,

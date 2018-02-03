@@ -297,7 +297,6 @@ input:-webkit-autofill:focus {
     vertical-align: middle;
     height:100%;
     background-color:#21a4b6;
-    overflow: visible;
 }
 
 

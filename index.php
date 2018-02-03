@@ -148,7 +148,7 @@
         <div id="benefits_icons">
             <div class="row text-center">
                 <!--First column first 3-->
-                <div class="col-sm-12 col-md-4 padding-0">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-blue">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
@@ -170,7 +170,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 padding-0">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
@@ -190,7 +190,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 padding-0">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-blue">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
@@ -210,7 +210,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 padding-0">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
@@ -228,7 +228,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 padding-0">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-blue">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
@@ -246,7 +246,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 padding-0">
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
@@ -316,7 +316,7 @@
                             <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label olive" style="font-size:18px !important;">PHOSPHATIDYLCHOLINE</p>
+                            <p class="benefits_label_long olive">PHOSPHATIDYLCHOLINE</p>
                             <p class="benefits_description olive">
                                 It is made up of phosphates, fatty acids, and Choline. All of these substances have
                                 great health effects on the brain and body. Phosphatidylcholine slows down brain aging,
@@ -418,7 +418,7 @@
                             <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label olive">PYRIDOXINE<br>(VITAMIN B6)</p>
+                            <p class="benefits_label olive">PYRIDOXINE (VITAMIN B6)</p>
                             <p class="benefits_description olive">
                                 Utilized in energy metabolism processes in your cells as well as in the production of
                                 neurotransmitters. Low levels of Vitamin B6 can lead to decreased cognitive ability,
@@ -458,7 +458,7 @@
                             <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label olive">CYANOCOBALAMIN<br>(VITAMIN B12)</p>
+                            <p class="benefits_label_long olive">CYANOCOBALAMIN (VITAMIN B12)</p>
                             <p class="benefits_description olive">
                                 It is a water soluble vitamin which has a key role in the normal functioning of the
                                 brain, nervous system, and the formulation of blood.
