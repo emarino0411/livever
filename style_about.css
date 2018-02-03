@@ -343,7 +343,7 @@ input:-webkit-autofill:focus {
     position: relative;
     border-top: 3px solid transparent;
     text-align: center;
-    color:#6c6c6c;
+    color:#ffffff;
 }
 
 .mainmenu-area #primary-menu > ul > li > a:before {
@@ -357,7 +357,7 @@ input:-webkit-autofill:focus {
     height: 0;
     border-right: 10px solid transparent;
     border-left: 10px solid transparent;
-    border-top: 10px solid #6c6c6c;
+    border-top: 10px solid #ffffff;
     opacity: 0;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -371,23 +371,22 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area #primary-menu ul li.active a,
 .mainmenu-area #primary-menu ul li a:hover {
-    border-top: 3px solid #6c6c6c;
+    border-top: 3px solid #ffffff;
 }
 
 .mainmenu-area.affix {
-    background-color: #ffffff;
-    border-color:transparent !important;
+    background-color: #648a9d !important;
+    border-color: #ffffff;
 }
 
-
 .affix-top .nav>li>a {
-    color: #000 !important;
+    color: #ffffff !important;
  }
  
  .affix-top.navbar .nav>li>a:hover,
  .affix-top.navbar .navbar-brand
  {
-    color: #333;
+    color: #ffffff;
  }
 
 
@@ -399,11 +398,11 @@ input:-webkit-autofill:focus {
   
   }
   
-  @media (min-width:768px) {
+  @media (min-width:320px) {
       .affix-top {
         /* navbar style at top */
-        background:transparent;
-        border-color: transparent;
+        background:#648a9d;
+        border-color: #648a9d;
         -webkit-transition:all 0.5s ease;
         -moz-transition:all 0.5s ease; 
         -o-transition:all 0.5s ease;         
@@ -413,17 +412,21 @@ input:-webkit-autofill:focus {
 
 
 
+
 /**
 *Header-area
 **/
 
 .client-area,
+.values-area,
 .header-area {
     background: #000000 url('assets/images/bg.png') no-repeat scroll center center / cover;
 }
-.values-area {
-    background: #F27729;
+
+.values-area{
+    color: #000000 !important;
 }
+
 .anlge-bg {
     
 }
@@ -439,7 +442,8 @@ input:-webkit-autofill:focus {
     top: 0;
     width: 100%;
     height: 100%;
-    opacity: 0.8
+    opacity: .1;
+    background-color:#A8F1ED;
 }
 
 .header-text h2 {
@@ -528,9 +532,15 @@ input:-webkit-autofill:focus {
     top: -2px;
     width: 100%;
     height: 3px;
-    background-color: #ffffff;
+    background-color: #E07122;
     opacity: 0;
 }
+
+.caption-slider .carousel-indicators li strong {
+    color:  #E07122;
+    font-size:110%;
+}
+
 
 
 .caption-slider .carousel-indicators li.active:before {
@@ -562,12 +572,14 @@ input:-webkit-autofill:focus {
 
 .caption-slider .caption-title {
     -webkit-animation-delay: 0.4s;
-    animation-delay: 0.4s
+    animation-delay: 0.4s;
+    color:#F07D25 !important;
 }
 
 .caption-slider .caption-desc {
     -webkit-animation-delay: 0.6s;
-    animation-delay: 0.6s
+    animation-delay: 0.6s;
+    columns: #6c6c6c !important;
 }
 
 .caption-slider .caption-button {
@@ -926,9 +938,9 @@ preloader
     width: 100%;
     height: 100%;
     background: #E77823;
-    background: -webkit-gradient(linear, left top, left bottom, from(#F0CFB2), to(#F07D25));
-    background: linear-gradient(to bottom, #F0CFB2 0%, #F07D25 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffff', endColorstr='#F07D25', GradientType=0);
+    background: -webkit-gradient(linear, left top, left bottom, from(#61889c), to(#008080));
+    background: linear-gradient(to bottom, #61889c 0%, #008080 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#61889c', endColorstr='#008080', GradientType=0);
     z-index: 99999999999;
 }
 

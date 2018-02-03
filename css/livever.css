@@ -19,7 +19,7 @@ body{
     position: absolute;
     /*left: 30%;*/
     margin: -25% auto;
-    z-index: 2;
+    z-index: 999999;
     text-align: center;
     width: 100%;
 
@@ -34,8 +34,8 @@ body{
 #dp_ingredients {
     position: absolute;
     /*left: 30%;*/
-    margin: -25% auto;
-    z-index: 2;
+    margin: -30% auto;
+    z-index: 99999;
     text-align: center;
     width: 100%;
 }
@@ -47,15 +47,13 @@ body{
 }
 
 .benefits_description{
-    margin: 0;  
-    line-height: 15px;
     font-size:10px;
-    display:none;
 }
 .benefits_label {
-    margin: 0;
-    line-height: 15px;
+    line-height:24px;
+    font-size:20px !important;
 }
+
 
 .hr-blue {
     line-height: 0;
@@ -73,14 +71,21 @@ body{
 {
     color:#126A80;
 }
+.olive
+{
+    color:#969B64;
+}
 
 .yellow{
     color:#F79E17;
 }
 
 .padding-0{
-    padding-right:10%;
-    padding-left:10%;
+    padding:.5%;
+}
+.padding-none{
+    padding: 0;
+    margin:0;
 }
 
 small{
@@ -93,4 +98,10 @@ small{
 
 #tinding_galing , #dp, #dp_ingredients{
     visibility: hidden;
+}
+.box-blue{
+    background-color:#dceaec !important;
+}
+.box-olive{
+    background-color:#ffffff !important;
 }
