@@ -101,8 +101,8 @@
             $files = array_diff(scandir($path), array('.', '..'));
 
             ?>
-            <?php if(count($files)>1){
-            ?>
+            <?php if (count($files) > 1) {
+                ?>
                 <div class="col-xs-12 col-sm-12 col-md-12 text-center" style="max-height:600px; overflow: hidden">
                     <div class="testimonials">
                         <?php
@@ -111,7 +111,7 @@
                             <div class="testimonial">
                                 <div class="testimonial-photo">
                                     <img src="assets/carousel/<?php echo $picture; ?>"
-                                        alt="" class="img-responsive center-block">
+                                         alt="" class="img-responsive center-block">
                                 </div>
                             </div>
                             <?php
@@ -120,17 +120,16 @@
                     </div>
 
                 </div>
-            <?php
-            }
-            else{
-            ?>
-            <div class="col-xs-12 col-md-12 text-center slideUp" id="tinding_galing">
-                <img src="assets/images/tinding_galing_page1.png"
-                     class="img-responsive center-block">
-            </div>
-            <?php
-            }?>
-            
+                <?php
+            } else {
+                ?>
+                <div class="col-xs-12 col-md-12 text-center slideUp" id="tinding_galing">
+                    <img src="assets/images/tinding_galing_page1.png"
+                         class="img-responsive center-block">
+                </div>
+                <?php
+            } ?>
+
         </div>
 </header>
 
@@ -149,99 +148,114 @@
         <div id="benefits_icons">
             <div class="row text-center">
                 <!--First column first 3-->
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-blue">
-                            <div class="col-md-4 box-icon">
-                                <div class="box-icon content">
-                                    <img src="assets/benefits/healthyliver.png" class="img-responsive img-circle center-block img-" alt="">
-                                </div>
+                <div class="col-sm-12 col-md-4 padding-0">
+                    <div class="box box-blue">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                            <div class="box-icon content">
+                                <img src="assets/benefits/healthyliver.png" class="img-responsive img-circle center-block" alt="">
                             </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label blue">HEALTHY LIVER</p>
-                                <p class="benefits_description blue">
-                                LivEver works as an anti-oxidant and boosts detoxification process, helping to remove toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle Extract and Phospatidylcholine.
-                                </p>
-                            </div>                            
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 col-sm-8 box-description">
+                            <p class="benefits_label blue">HEALTHY LIVER</p>
+                            <p class="benefits_description blue ">
+                                LivEver works as an anti-oxidant and boosts detoxification process, helping to remove
+                                toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle
+                                Extract and Phospatidylcholine.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box">
-                            <div class="col-md-4 box-icon">
-                                <div class="box-icon content">
-                                    <img src="assets/benefits/goodsleep.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label blue">GOOD SLEEP</p>
-                                <p class="benefits_description blue">
-                                LivEver works in the detoxification process through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle Extract and Phosphatidylcholine. It also helps in the production and metabolism of sleep boosters through Zinc, Thiamin, Pyridoxine and Cyanocobalamin.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-blue">
-                            <div class="col-md-4 box-icon">
-                                <div class="box-icon content">
-                                    <img src="assets/benefits/digestion.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">                                
-                                <p class="benefits_label blue">GOOD DIGESTION</p>
-                                <p class="benefits_description blue">
-                                LivEver works as an anti-inflammatory improving intestinal permeability and treat inflammatory Bowel Diseases through Turmeric Extract, Alpha Lipoic Acid, Calcium Pantothenate and Zinc.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 padding-0">
-                        <div class="box">
-                            <div class="col-md-4 box-icon">
-                                <div class="box-icon content">
-                                    <img src="assets/benefits/highenergy.png" class="img-responsive img-circle center-block img-" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label blue">HIGH ENERGY</p>
-                                <p class="benefits_description blue">
-                                LivEver helps in the metabolism of protein, fat and sugars through its 9 potent and natural components.
-                                </p>
-                            </div>                            
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-blue">
-                            <div class="col-md-4 box-icon">
-                                <div class="box-icon content">
-                                    <img src="assets/benefits/mentalalertness.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label blue">MENTAL ALERTNESS</p>
-                                <p class="benefits_description blue">
-                                LivEver increases the production of neurotransmitters that boost cognitive function through its 9 potent and natural components.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box">
-                            <div class="col-md-4 box-icon">
-                                <div class="box-icon content">
-                                    <img src="assets/benefits/bloodcirculation.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">                                
-                                <p class="benefits_label blue">GOOD BLOOD CIRCULATION</p>
-                                <p class="benefits_description blue">LivEver improves oxygen flow and prevents blood platelet clots through Turmeric Extract and Phosphatidylcholine. It also prevents occurence of strokes and heart diseases.</p>
-                            </div>  
-                        </div>
-                    </div>
-
                 </div>
+                <div class="col-md-4 padding-0">
+                    <div class="box">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                            <div class="box-icon content">
+                                <img src="assets/benefits/goodsleep.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label blue">GOOD SLEEP</p>
+                            <p class="benefits_description blue ">
+                                LivEver works in the detoxification process through Turmeric Extract, Alpha Lipoic Acid,
+                                Milk Thistle Extract and Phosphatidylcholine. It also helps in the production and
+                                metabolism of sleep boosters through Zinc, Thiamin, Pyridoxine and Cyanocobalamin.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 padding-0">
+                    <div class="box box-blue">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                            <div class="box-icon content">
+                                <img src="assets/benefits/digestion.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label blue">GOOD DIGESTION</p>
+                            <p class="benefits_description blue ">
+                                LivEver works as an anti-inflammatory improving intestinal permeability and treat
+                                inflammatory Bowel Diseases through Turmeric Extract, Alpha Lipoic Acid, Calcium
+                                Pantothenate and Zinc.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 padding-0">
+                    <div class="box">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                            <div class="box-icon content">
+                                <img src="assets/benefits/highenergy.png"
+                                     class="img-responsive img-circle center-block img-" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label blue">HIGH ENERGY</p>
+                            <p class="benefits_description blue ">
+                                LivEver helps in the metabolism of protein, fat and sugars through its 9 potent and
+                                natural components.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 padding-0">
+                    <div class="box box-blue">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                            <div class="box-icon content">
+                                <img src="assets/benefits/mentalalertness.png"
+                                     class="img-responsive img-circle center-block" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label blue">MENTAL ALERTNESS</p>
+                            <p class="benefits_description blue ">
+                                LivEver increases the production of neurotransmitters that boost cognitive function
+                                through its 9 potent and natural components.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 padding-0">
+                    <div class="box">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                            <div class="box-icon content">
+                                <img src="assets/benefits/bloodcirculation.png"
+                                     class="img-responsive img-circle center-block" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label blue">GOOD BLOOD CIRCULATION</p>
+                            <p class="benefits_description blue ">LivEver improves oxygen flow and prevents blood
+                                platelet clots through Turmeric Extract and Phosphatidylcholine. It also prevents
+                                occurence of strokes and heart diseases.</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
+    </div>
 
     </div>
 </section>
@@ -259,150 +273,174 @@
         </div>
         <div id="ingredients_icons">
 
-        <div class="row text-center">
+            <div class="row text-center">
                 <!--First column first 3-->
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/milk_thistle.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/milk_thistle.png"
+                                     class="img-responsive img-circle center-block" alt="">
                             </div>
-                            <div class="col-md-8 box-description">                                
-                                <p class="benefits_label olive">MILK THISTLE EXTRACT</p>
-                                <p class="benefits_description olive">
-                                LivEver works as an anti-oxidant and boosts detoxification process, helping to remove toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle Extract and Phospatidylcholine.
-                                </p>
-                            </div>  
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">MILK THISTLE EXTRACT</p>
+                            <p class="benefits_description olive">
+                                LivEver works as an anti-oxidant and boosts detoxification process, helping to remove
+                                toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle
+                                Extract and Phospatidylcholine.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/brocolli.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label olive" style="font-size:18px !important;">PHOSPHATIDYLCHOLINE</p>
-                                <p class="benefits_description olive">
-                                It is made up of phosphates, fatty acids, and Choline. All of these substances have great health effects on the brain and body. Phosphatidylcholine slows down brain aging, increases neuroplasticity, and boosts brainpower, memory and cognition.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/turmeric.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">                                
-                                <p class="benefits_label olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
-                                <p class="benefits_description olive">
-                                    Turmeric is known for its potent antioxidative and a powerful anti-inflammatory effect for all parts of the body.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/beans.png" class="img-responsive img-circle center-block img-" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label olive">ALPHA LIPOIC ACID</p>
-                                <p class="benefits_description olive">
-                                Alpha Lipoic Acid considered as the "super antioxidant" that recycles Vitamin C and E, Glutathione and CoQ10, which are used up by the body to fight against diseases for aging people such as strokes, heart diseases, cataracts and memory loss.
-                                </p>
-                            </div>                            
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive  content">
-                                    <img src="assets/components/groundmeat.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label olive">CALCIUM PANTOTHENATE</p>
-                                <p class="benefits_description olive">
-                                It is also known as Vitamin B5, which regulates energy metabolism and mental stamina. Deficiency of Vitamin B5 can lead to fatigue and mood disorders, such as depression and irritability.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/tomato.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">                                
-                                <p class="benefits_label olive">THIAMIN (VITAMIN B1)</p>
-                                <p class="benefits_description olive">
-                                It is used to produce ATP (adenosie triphosphate) that fuel the body to perform essential functions. Vitamin B1 is also required for the healthy regulation of sleep cycles, brain circulation, and cellular metabolism.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive"> 
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/b6.png" class="img-responsive img-circle center-block img-" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label olive">PYRIDOXINE<br>(VITAMIN B6)</p>
-                                <p class="benefits_description olive">
-                                Utilized in energy metabolism processes in your cells as well as in the production of neurotransmitters. Low levels of Vitamin B6 can lead to decreased cognitive ability, lack of focus or energy, brain tissue shrinkage and Alzheimer's.
-                                </p>
-                            </div>                            
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/zinc.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">
-                                <p class="benefits_label olive">ZINC</p>
-                                <p class="benefits_description olive">
-                                Serves as a cofactor for many enzymatic reactions. Required for normal growth and tissue repair and wound healing.  
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-                    <div class="col-md-4 padding-0">
-                        <div class="box box-olive">
-                            <div class="col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/egg.png" class="img-responsive img-circle center-block" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-8 box-description">                                
-                                <p class="benefits_label olive">CYANOCOBALAMIN<br>(VITAMIN B12)</p>
-                                <p class="benefits_description olive">
-                                It is a water soluble vitamin which has a key role in the normal functioning of the brain, nervous system, and the formulation of blood.
-                                </p>
-                            </div>  
-                        </div>
-                    </div>
-
                 </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/brocolli.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive" style="font-size:18px !important;">PHOSPHATIDYLCHOLINE</p>
+                            <p class="benefits_description olive">
+                                It is made up of phosphates, fatty acids, and Choline. All of these substances have
+                                great health effects on the brain and body. Phosphatidylcholine slows down brain aging,
+                                increases neuroplasticity, and boosts brainpower, memory and cognition.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/turmeric.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
+                            <p class="benefits_description olive">
+                                Turmeric is known for its potent antioxidative and a powerful anti-inflammatory effect
+                                for all parts of the body.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/beans.png"
+                                     class="img-responsive img-circle center-block img-" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">ALPHA LIPOIC ACID</p>
+                            <p class="benefits_description olive">
+                                Alpha Lipoic Acid considered as the "super antioxidant" that recycles Vitamin C and E,
+                                Glutathione and CoQ10, which are used up by the body to fight against diseases for aging
+                                people such as strokes, heart diseases, cataracts and memory loss.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive  content">
+                                <img src="assets/components/groundmeat.png"
+                                     class="img-responsive img-circle center-block" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">CALCIUM PANTOTHENATE</p>
+                            <p class="benefits_description olive">
+                                It is also known as Vitamin B5, which regulates energy metabolism and mental stamina.
+                                Deficiency of Vitamin B5 can lead to fatigue and mood disorders, such as depression and
+                                irritability.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/tomato.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">THIAMIN (VITAMIN B1)</p>
+                            <p class="benefits_description olive">
+                                It is used to produce ATP (adenosie triphosphate) that fuel the body to perform
+                                essential functions. Vitamin B1 is also required for the healthy regulation of sleep
+                                cycles, brain circulation, and cellular metabolism.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/b6.png" class="img-responsive img-circle center-block img-"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">PYRIDOXINE<br>(VITAMIN B6)</p>
+                            <p class="benefits_description olive">
+                                Utilized in energy metabolism processes in your cells as well as in the production of
+                                neurotransmitters. Low levels of Vitamin B6 can lead to decreased cognitive ability,
+                                lack of focus or energy, brain tissue shrinkage and Alzheimer's.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/zinc.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">ZINC</p>
+                            <p class="benefits_description olive">
+                                Serves as a cofactor for many enzymatic reactions. Required for normal growth and tissue
+                                repair and wound healing.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                            <div class="box-icon-olive content">
+                                <img src="assets/components/egg.png" class="img-responsive img-circle center-block"
+                                     alt="">
+                            </div>
+                        </div>
+                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                            <p class="benefits_label olive">CYANOCOBALAMIN<br>(VITAMIN B12)</p>
+                            <p class="benefits_description olive">
+                                It is a water soluble vitamin which has a key role in the normal functioning of the
+                                brain, nervous system, and the formulation of blood.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
+    </div>
 
     </div>
 
