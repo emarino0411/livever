@@ -82,7 +82,7 @@
                 <li><a href="#benefits">Benefits</a></li>
                 <li><a href="#ingredients">Ingredients</a></li>
                 <li><a href="#contactus">Contact Us</a></li>
-                <li><a href="about.html">About Us</a></li>
+                <li><a href="about.php">About Us</a></li>
             </ul>
         </nav>
     </div>

@@ -16,7 +16,7 @@
     <!-- Plugin-CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
+<!--    <link rel="stylesheet" href="css/themify-icons.css">-->
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/animate.css">
     <!-- Main-Stylesheets -->
@@ -82,7 +82,7 @@
                 <li><a href="#benefits">Benefits</a></li>
                 <li><a href="#ingredients">Components</a></li>
                 <li><a href="#contactus">Contact Us</a></li>
-                <li><a href="about.html">About Us</a></li>
+                <li><a href="about.php">About Us</a></li>
             </ul>
         </nav>
     </div>
@@ -564,7 +564,7 @@
 <script src="js/vendor/bootstrap.min.js"></script>
 <!--Plugin-JS-->
 <script src="js/owl.carousel.min.js"></script>
-<script src="js/contact-form.js"></script>
+<!--<script src="js/contact-form.js"></script>-->
 <script src="js/jquery.parallax-1.1.3.js"></script>
 <script src="js/scrollUp.min.js"></script>
 <script src="js/magnific-popup.min.js"></script>
