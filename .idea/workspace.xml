@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8b319ddf-2bf6-4612-9fa8-38eef341423f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="430" column="54" lean-forward="false" selection-start-line="430" selection-start-column="54" selection-end-line="430" selection-end-column="54" />
+            <state relative-caret-position="182">
+              <caret line="454" column="32" lean-forward="true" selection-start-line="454" selection-start-column="32" selection-end-line="454" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -29,8 +28,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="308" column="23" lean-forward="false" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
+            <state relative-caret-position="367">
+              <caret line="325" column="12" lean-forward="false" selection-start-line="325" selection-start-column="12" selection-end-line="325" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -65,7 +64,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.jpg</find>
       <find>png</find>
       <find>bg.png</find>
       <find>benefits`</find>
@@ -91,11 +89,15 @@
       <find>padding-0</find>
       <find>padding-</find>
       <find>box-description</find>
-      <find>benefits_description</find>
-      <find>box-icon</find>
       <find>hidden-xs hidden-sm</find>
       <find>benefits_icons</find>
+      <find>benefits_description</find>
+      <find>box-icon</find>
+      <find>arrow-left-olive</find>
     </findStrings>
+    <replaceStrings>
+      <replace>arrow-right-olive</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,8 +110,8 @@
         <option value="$PROJECT_DIR$/css/themify-icons.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/livever.css" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -210,12 +212,12 @@
       <workItem from="1517399400903" duration="1874000" />
       <workItem from="1517403803262" duration="919000" />
       <workItem from="1517517128373" duration="438000" />
-      <workItem from="1517657708336" duration="1230000" />
+      <workItem from="1517657708336" duration="2789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18097000" />
+    <option name="totallyTimeSpent" value="19656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="-4" width="1295" height="773" extended-state="6" />
@@ -614,14 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="308" column="23" lean-forward="false" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
@@ -635,10 +629,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="325" column="12" lean-forward="false" selection-start-line="325" selection-start-column="12" selection-end-line="325" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="430" column="54" lean-forward="false" selection-start-line="430" selection-start-column="54" selection-end-line="430" selection-end-column="54" />
+        <state relative-caret-position="182">
+          <caret line="454" column="32" lean-forward="true" selection-start-line="454" selection-start-column="32" selection-end-line="454" selection-end-column="32" />
           <folding />
         </state>
       </provider>

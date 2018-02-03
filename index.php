@@ -152,17 +152,22 @@
                     <div class="box box-blue">
                         <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
                             <div class="box-icon content">
-                                <img src="assets/benefits/healthyliver.png" class="img-responsive img-circle center-block" alt="">
+                                <img src="assets/benefits/healthyliver.png"
+                                     class="img-responsive img-circle center-block" alt="">
                             </div>
+                            <div class="arrow-right-blue"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 col-sm-8 box-description">
+
                             <p class="benefits_label blue">HEALTHY LIVER</p>
                             <p class="benefits_description blue ">
-                                LivEver works as an anti-oxidant and boosts detoxification process, helping to remove
-                                toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle
-                                Extract and Phospatidylcholine.
+
+                            LivEver works as an anti-oxidant and boosts detoxification process, helping to remove
+                            toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle
+                            Extract and Phospatidylcholine.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-md-4 padding-0">
@@ -172,6 +177,7 @@
                                 <img src="assets/benefits/goodsleep.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-blue"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">GOOD SLEEP</p>
@@ -181,6 +187,7 @@
                                 metabolism of sleep boosters through Zinc, Thiamin, Pyridoxine and Cyanocobalamin.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-md-4 padding-0">
@@ -190,6 +197,7 @@
                                 <img src="assets/benefits/digestion.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-blue"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">GOOD DIGESTION</p>
@@ -209,6 +217,7 @@
                                 <img src="assets/benefits/highenergy.png"
                                      class="img-responsive img-circle center-block img-" alt="">
                             </div>
+                            <div class="arrow-right-blue"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">HIGH ENERGY</p>
@@ -226,6 +235,7 @@
                                 <img src="assets/benefits/mentalalertness.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
+                            <div class="arrow-right-blue"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">MENTAL ALERTNESS</p>
@@ -243,12 +253,13 @@
                                 <img src="assets/benefits/bloodcirculation.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
+                            <div class="arrow-right-blue"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">GOOD BLOOD CIRCULATION</p>
                             <p class="benefits_description blue ">LivEver improves oxygen flow and prevents blood
                                 platelet clots through Turmeric Extract and Phosphatidylcholine. It also prevents
-                                occurence of strokes and heart diseases.</p>
+                                occurrence of strokes and heart diseases.</p>
                         </div>
                     </div>
                 </div>
@@ -282,6 +293,7 @@
                                 <img src="assets/components/milk_thistle.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">MILK THISTLE EXTRACT</p>
@@ -291,6 +303,7 @@
                                 Extract and Phospatidylcholine.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -300,6 +313,7 @@
                                 <img src="assets/components/brocolli.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive" style="font-size:18px !important;">PHOSPHATIDYLCHOLINE</p>
@@ -309,6 +323,7 @@
                                 increases neuroplasticity, and boosts brainpower, memory and cognition.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -318,6 +333,7 @@
                                 <img src="assets/components/turmeric.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
@@ -326,6 +342,7 @@
                                 for all parts of the body.
                             </p>
                         </div>
+
                     </div>
                 </div>
 
@@ -336,6 +353,7 @@
                                 <img src="assets/components/beans.png"
                                      class="img-responsive img-circle center-block img-" alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">ALPHA LIPOIC ACID</p>
@@ -345,6 +363,7 @@
                                 people such as strokes, heart diseases, cataracts and memory loss.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -354,6 +373,7 @@
                                 <img src="assets/components/groundmeat.png"
                                      class="img-responsive img-circle center-block" alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">CALCIUM PANTOTHENATE</p>
@@ -363,6 +383,7 @@
                                 irritability.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -372,6 +393,7 @@
                                 <img src="assets/components/tomato.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">THIAMIN (VITAMIN B1)</p>
@@ -381,6 +403,7 @@
                                 cycles, brain circulation, and cellular metabolism.
                             </p>
                         </div>
+
                     </div>
                 </div>
 
@@ -392,6 +415,7 @@
                                 <img src="assets/components/b6.png" class="img-responsive img-circle center-block img-"
                                      alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">PYRIDOXINE<br>(VITAMIN B6)</p>
@@ -401,6 +425,7 @@
                                 lack of focus or energy, brain tissue shrinkage and Alzheimer's.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -410,6 +435,8 @@
                                 <img src="assets/components/zinc.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
+
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">ZINC</p>
@@ -418,6 +445,7 @@
                                 repair and wound healing.
                             </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -427,6 +455,7 @@
                                 <img src="assets/components/egg.png" class="img-responsive img-circle center-block"
                                      alt="">
                             </div>
+                            <div class="arrow-right-olive"></div>
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label olive">CYANOCOBALAMIN<br>(VITAMIN B12)</p>
@@ -435,6 +464,7 @@
                                 brain, nervous system, and the formulation of blood.
                             </p>
                         </div>
+
                     </div>
                 </div>
 
