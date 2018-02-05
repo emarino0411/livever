@@ -85,6 +85,9 @@
     <div class="absolute anlge-bg"></div>
     <div class="container">
         <div class="row v-center">
+            <div class="hidden-md hidden-lg col-xs-12 col-md-7 header-text">
+                <img src="/assets/carousel/5-total-body-supplement.png" class="img img-responsive">
+            </div>
             <div class="col-xs-12 col-md-7 header-text">
                 <h2>Mergfil Pharma Corporation</h2>
                 <p>To be firmly recognized as a healthcare industry leader in the country that provides safe and
@@ -150,7 +153,7 @@
             <div class="col-xs-12 col-sm-2 col-sm-offset-1">
                 <div class="box">
                     <div class="box-icon">
-                        <img src="assets/flat-icons/network.png" alt="">
+                        <img src="assets/flat-icons/network.png" class="img img-responsive" alt="">
                     </div>
                     <h4>CUSTOMERS</h4>
                     <p>To address our fellowmen’s pursuit of optimum health.</p>
@@ -159,7 +162,7 @@
             <div class="col-xs-12 col-sm-2">
                 <div class="box">
                     <div class="box-icon">
-                        <img src="assets/flat-icons/business-presentation.png" alt="">
+                        <img src="assets/flat-icons/business-presentation.png"  class="img img-responsive" alt="">
                     </div>
                     <h4>SHAREHOLDERS</h4>
                     <p>To provide a healthy return on investment.</p>
@@ -168,7 +171,7 @@
             <div class="col-xs-12 col-sm-2">
                 <div class="box">
                     <div class="box-icon">
-                        <img src="assets/flat-icons/boss-1.png" alt="">
+                        <img src="assets/flat-icons/boss-1.png" class="img img-responsive" alt="">
                     </div>
                     <h4>BUSINESS PARTNERS</h4>
                     <p>To be partner for delivering value to our customers and community.</p>
@@ -177,7 +180,7 @@
             <div class="col-xs-12 col-sm-2">
                 <div class="box">
                     <div class="box-icon">
-                        <img src="assets/flat-icons/id-card.png" alt="">
+                        <img src="assets/flat-icons/id-card.png" class="img img-responsive" alt="">
                     </div>
                     <h4>EMPLOYEES</h4>
                     <p>To be an enriching place to develop people and a platform for excellence.</p>
@@ -186,7 +189,7 @@
             <div class="col-xs-12 col-sm-2">
                 <div class="box">
                     <div class="box-icon">
-                        <img src="assets/flat-icons/collaboration.png" alt="">
+                        <img src="assets/flat-icons/collaboration.png" class="img img-responsive" alt="">
                     </div>
                     <h4>COMMUNITY</h4>
                     <p>To be an important part of the community.</p>
@@ -200,6 +203,14 @@
 <section class="values-area angle-bg overlay section-padding" id="values">
     <div class="container">
         <div class="row">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
+                    <div class="page-title">
+                        <h2>GREAT LIFE</h2>
+                        <p>We work hand in hand to achieve our goal and that is to have a GREAT LIFE we deserve.</p>
+                    </div>
+                </div>
+            </div>
             <div class="col-xs-12">
                 <div id="caption_slide" class="carousel slide caption-slider" data-ride="carousel">
                     <div class="carousel-inner" role="listbox">
@@ -451,7 +462,7 @@
                         </div>
                     </div>
                     <!-- Indicators -->
-                    <ol class="carousel-indicators caption-indector">
+                    <ol class="hidden-xs hidden-sm carousel-indicators caption-indector">
                         <li data-target="#caption_slide" data-slide-to="0" class="active">
                             <strong>G</strong>God-centered
                         </li>

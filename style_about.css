@@ -231,6 +231,7 @@ input:-webkit-autofill:focus {
     position: relative;
     margin-bottom: 20px;
     padding-bottom: 20px;
+    color:#F07D25 !important;
 }
 
 .page-title h2:after {
@@ -275,21 +276,9 @@ input:-webkit-autofill:focus {
 }
 
 .box .box-icon {
-    height: 160px;
     margin-bottom: 20px;
 }
 
-.box .box-icon img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-}
-
-.box:hover .box-icon img {
-    -webkit-filter: grayscale(0);
-    filter: grayscale(0)
-}
 
 /**
 *Mainmenu-area
