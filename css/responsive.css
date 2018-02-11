@@ -3,7 +3,7 @@
 @media only screen and (min-width: 992px) and (max-width: 1200px) {}
 
 /* IPAD PRO*/
-@media only screen and (min-height: 1366px) and (max-height: 1366px) {
+@media only screen and (min-width: 1024px) and (max-width: 1300px) {
 
     .mainmenu-area #primary-menu > ul > li > a {
         padding: 30px 12px;
@@ -43,14 +43,11 @@
         width: 100%;
 
     }
-    #dp img{
-        width:60%;
-        height:auto;
-    }
+
 
     #benefits_icons {
         position: relative;
-        padding: 20% 5% 5%;
+        padding: 23% 5% 5%;
     }
 
     #dp_ingredients {
@@ -64,7 +61,7 @@
 
     #ingredients_icons {
         position: relative;
-        padding: 20% 5% 5%;
+        padding: 24% 5% 5%;
     }
 
     
@@ -81,7 +78,7 @@
 }
 
 /* IPAD */
-@media only screen and (width: 768px) and (height: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
 
 
     .mainmenu-area #primary-menu > ul > li > a {
@@ -117,34 +114,28 @@
     #dp {
         position: absolute;
         /*left: 30%;*/
-        margin: -30% auto;
+        margin: -10% auto;
         z-index: 2;
         text-align: center;
         width: 100%;
 
     }
-    #dp img{
-        width:60%;
-        height:auto;
-    }
+
 
     #benefits_icons {
         position: relative;
-        padding: 20% 5% 5%;
     }
 
     #dp_ingredients {
         position: absolute;
         /*left: 30%;*/
         margin: -25% auto;
-        z-index: 2;
         text-align: center;
         width: 100%;
     }
 
     #ingredients_icons {
         position: relative;
-        padding: 20% 5% 5%;
     }
     .box{
         padding:0 !important;
@@ -155,7 +146,7 @@
         background-color:#21a4b6;
     }
     .box .box-icon img{
-        width:80% !important;
+        width:60% !important;
         height:auto;
     }
 
@@ -165,7 +156,7 @@
         background-color:#C7D282;
     }
     .box .box-icon-olive img{
-        width:80% !important;
+        width:60% !important;
         height:auto;
     }
 
@@ -219,8 +210,8 @@
         border-left: 20px solid #C7D282;
     }
 }
-/* Tablet Layout: 768px. */
 
+/* Tablet Layout: 768px. */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .padding-0{
         padding-right:0;
@@ -264,14 +255,11 @@
         width: 100%;
 
     }
-    #dp img{
-        width:80%;
-        height:auto;
-    }
+
 
     #benefits_icons {
         position: relative;
-        padding: 25% 5% 5%;
+        padding: 30% 5% 5%;
     }
 
     #dp_ingredients {
@@ -383,7 +371,8 @@
 }
 
 /*  */
-@media only screen and (max-width: 320px) and (max-width: 647px) {
+@media only screen and (min-width: 320px) and (max-width: 647px) {
+   
     .padding-0{
         padding-right:0;
         padding-left:0;
@@ -422,7 +411,7 @@
         padding: 0;
     }
     .box .box-icon {
-        height: auto;
+        height: 100%;
     }
     .single-blog,
     .single-team,
@@ -438,13 +427,6 @@
     .x-left {
         text-align: left;
     }
-    .mainmenu-area .logo {
-        margin-left: 15px;
-    }
-    .mainmenu-area .logo img{
-        width:80%;
-        margin-top:-19%;
-    }
 
 
     #dp {
@@ -458,7 +440,7 @@
 
     #benefits_icons {
         position: relative;
-        padding: 10% 5% 5%;
+        padding: 30% 5% 5%;
     }
 
     #dp_ingredients {
@@ -472,7 +454,7 @@
 
     #ingredients_icons {
         position: relative;
-        padding: 10% 5% 5%;
+        padding: 50% 5% 5%;
     }
 
 }
@@ -576,3 +558,267 @@
 
 
 }
+/*
+@media only screen and (min-width: 1024px) and (max-width: 1300px) {
+
+
+    .mainmenu-area #primary-menu > ul > li > a {
+        padding: 30px 12px;
+    }
+    .header-area {
+        padding-top: 80px;
+    }
+    .price-table,
+    .box {
+        padding: 0;
+        background-color:pink;
+    }
+    .price-table.active {
+        padding: 50px 15px;
+    }
+    .single-team {
+        margin-bottom: 30px
+    }
+    .side-icon-boxes {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+
+
+    #dp {
+        position: absolute;
+ 
+        margin: -20% auto;
+        z-index: 2;
+        text-align: center;
+        width: 100%;
+
+    }
+
+    #benefits_icons {
+        position: relative;
+        padding: 33% 5% 5%;
+    }
+
+    #dp_ingredients {
+        position: absolute;
+     
+        margin: -25% auto;
+        text-align: center;
+        width: 100%;
+    }
+
+    #ingredients_icons {
+        position: relative;
+        padding: 24% 5% 5%;
+    }
+    .box{
+        padding:0 !important;
+        height:200px !important;
+    }
+    .box .box-icon{
+        vertical-align: middle;
+        height:100%;
+        background-color:#21a4b6;
+    }
+    .box .box-icon img{
+        width:100% !important;
+        height:auto;
+    }
+
+    .box .box-icon-olive{
+        vertical-align: middle;
+        height:100%;
+        background-color:#C7D282;
+    }
+    .box .box-icon-olive img{
+        width:100% !important;
+        height:auto;
+    }
+
+    .content {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .benefits_label {
+        margin: 0;
+        line-height: 18px;
+        font-size:20px;
+        padding:3% 0;
+    }
+
+    .benefits_label_long{
+        margin: 0;
+        line-height: 18px;
+        font-size:20px;
+        padding:3% 0;
+    }
+
+
+    .arrow-right-blue {
+        position:absolute;
+        top:35%;
+        left:95%;
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+
+        border-left: 20px solid #21a4b6;
+    }
+    .arrow-right-olive {
+        position:absolute;
+        top:35%;
+        left:95%;
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+
+        border-left: 20px solid #C7D282;
+    }
+}
+
+
+@media only screen and (min-width: 1440px) and (max-width: 2560px) {
+
+
+    .mainmenu-area #primary-menu > ul > li > a {
+        padding: 30px 12px;
+    }
+    .header-area {
+        padding-top: 80px;
+    }
+    .price-table,
+    .box {
+        padding: 0;
+        background-color:pink;
+    }
+    .price-table.active {
+        padding: 50px 15px;
+    }
+    .single-team {
+        margin-bottom: 30px
+    }
+    .side-icon-boxes {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+
+
+    #dp {
+        position: absolute;
+
+        margin: -20% auto;
+        z-index: 2;
+        text-align: center;
+        width: 100%;
+
+    }
+
+
+    #benefits_icons {
+        position: relative;
+        padding: 33% 5% 5%;
+    }
+
+    #dp_ingredients {
+        position: absolute;
+    
+        margin: -25% auto;
+        text-align: center;
+        width: 100%;
+    }
+    #dp_ingredients img{
+        width:60%;
+        height:auto;
+    }
+
+    #ingredients_icons {
+        position: relative;
+        padding: 24% 5% 5%;
+    }
+    .box{
+        padding:0 !important;
+        height:200px !important;
+    }
+    .box .box-icon{
+        vertical-align: middle;
+        height:100%;
+        background-color:#21a4b6;
+    }
+    .box .box-icon img{
+        width:100% !important;
+        height:auto;
+    }
+
+    .box .box-icon-olive{
+        vertical-align: middle;
+        height:100%;
+        background-color:#C7D282;
+    }
+    .box .box-icon-olive img{
+        width:100% !important;
+        height:auto;
+    }
+
+    .content {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .benefits_label {
+        margin: 0;
+        line-height: 18px;
+        font-size:20px;
+        padding:3% 0;
+    }
+
+    .benefits_label_long{
+        margin: 0;
+        line-height: 18px;
+        font-size:20px;
+        padding:3% 0;
+    }
+
+
+    .arrow-right-blue {
+        position:absolute;
+        top:35%;
+        left:95%;
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+
+        border-left: 20px solid #21a4b6;
+    }
+    .arrow-right-olive {
+        position:absolute;
+        top:35%;
+        left:95%;
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+
+        border-left: 20px solid #C7D282;
+    }
+}*/

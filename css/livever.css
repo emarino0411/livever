@@ -19,7 +19,7 @@ body{
     position: absolute;
     /*left: 30%;*/
     margin: -25% auto;
-    z-index: 999999;
+    z-index: 9999;
     text-align: center;
     width: 100%;
 
@@ -27,7 +27,7 @@ body{
 
 #benefits_icons {
     position: relative;
-    padding: 15% 5% 5%;
+    padding: 13% 5% 5%;
     z-index:3;
 }
 
@@ -35,19 +35,20 @@ body{
     position: absolute;
     /*left: 30%;*/
     margin: -30% auto;
-    z-index: 99999;
     text-align: center;
     width: 100%;
 }
 
+
 #ingredients_icons {
-    position: relative;
-    padding: 12% 5% 5%;
-    z-index:3;
+    position:relative;
+    padding: 7% 5% 5%;
 }
 
 .benefits_description{
     font-size:10px;
+    padding-left:5%;
+    text-align: justify;
 }
 .benefits_label {
     line-height:24px;
@@ -100,8 +101,8 @@ small{
     visibility: hidden;
 }
 .box-blue{
-    background-color:#dceaec !important;
+    background-color: rgb(228,243,244) !important;
 }
 .box-olive{
-    background-color:#ffffff !important;
+    background-color:rgb(225,225,225) !important;
 }

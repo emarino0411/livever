@@ -7,59 +7,21 @@
     $(".mainmenu-area #mainmenu li a").on("click", function () {
         $(".navbar-collapse").removeClass("in");
     });
-    /*WoW js Active
-    =================*/
-    new WOW().init({
-        mobile: false,
-    });
+   
     /* Scroll to top
     ===================*/
-    $.scrollUp({
-        scrollText: '<i class="fa fa-angle-up"></i>',
-        easingType: 'linear',
-        scrollSpeed: 900,
-        animation: 'fade'
-    });
+    // $.scrollUp({
+    //     scrollText: '<i class="fa fa-angle-up"></i>',
+    //     easingType: 'linear',
+    //     scrollSpeed: 900,
+    //     animation: 'fade'
+    // });
 
-    /*--------------------
-       MAGNIFIC POPUP JS
-       ----------------------*/
-    var magnifPopup = function () {
-        $('.work-popup').magnificPopup({
-            type: 'image',
-            removalDelay: 300,
-            mainClass: 'mfp-with-zoom',
-            gallery: {
-                enabled: true
-            },
-            zoom: {
-                enabled: true, // By default it's false, so don't forget to enable it
+    // //Background Parallax
+    // $('.header-area').parallax("50%", 1);
+    // $('#benefits').parallax("50%", 1);
+    // $('#ingredients').parallax("50%", 1);
 
-                duration: 300, // duration of the effect, in milliseconds
-                easing: 'ease-in-out', // CSS transition easing function
-
-                // The "opener" function should return the element from which popup will be zoomed in
-                // and to which popup will be scaled down
-                // By defailt it looks for an image tag:
-                opener: function (openerElement) {
-                    // openerElement is the element on which popup was initialized, in this case its <a> tag
-                    // you don't need to add "opener" option if this code matches your needs, it's defailt one.
-                    return openerElement.is('img') ? openerElement : openerElement.find('img');
-                }
-            }
-        });
-    };
-    // Call the functions 
-    magnifPopup();
-
-    //Background Parallax
-    $('.header-area').parallax("50%", 1);
-    $('#benefits').parallax("50%", 1);
-    $('#ingredients').parallax("50%", 1);
-
-
-
-    $('#accordion .panel-title a').prepend('<span></span>');
 
 
 /* testimonials Slider Active
@@ -131,45 +93,10 @@
         });
 
 
-
-
-
-
     /* Preloader Js
     ===================*/
     $(window).on("load", function () {
         $('.preloader').fadeOut(500);
-        $('.popup-with-zoom-anim').magnificPopup({
-            type: 'inline',
-    
-            fixedContentPos: false,
-            fixedBgPos: true,
-    
-            overflowY: 'auto',
-    
-            closeBtnInside: true,
-            preloader: false,
-            
-            midClick: true,
-            removalDelay: 300,
-            mainClass: 'my-mfp-zoom-in'
-        });
-    
-        $('.popup-with-move-anim').magnificPopup({
-            type: 'inline',
-    
-            fixedContentPos: false,
-            fixedBgPos: true,
-    
-            overflowY: 'auto',
-    
-            closeBtnInside: true,
-            preloader: false,
-            
-            midClick: true,
-            removalDelay: 300,
-            mainClass: 'my-mfp-slide-bottom'
-        });
     });
 
 })(jQuery);
