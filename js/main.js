@@ -7,21 +7,7 @@
     $(".mainmenu-area #mainmenu li a").on("click", function () {
         $(".navbar-collapse").removeClass("in");
     });
-   
-    /* Scroll to top
-    ===================*/
-    // $.scrollUp({
-    //     scrollText: '<i class="fa fa-angle-up"></i>',
-    //     easingType: 'linear',
-    //     scrollSpeed: 900,
-    //     animation: 'fade'
-    // });
-
-    // //Background Parallax
-    // $('.header-area').parallax("50%", 1);
-    // $('#benefits').parallax("50%", 1);
-    // $('#ingredients').parallax("50%", 1);
-
+  
 
 
 /* testimonials Slider Active

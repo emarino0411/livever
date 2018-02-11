@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--    <link rel="stylesheet" href="css/themify-icons.css">-->
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/animate.css">
@@ -28,6 +29,8 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link rel="stylesheet" href="css/animations.css">
     <link rel="stylesheet" href="style.css">
+
+    
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -118,7 +121,7 @@
             } else {
                 ?>
                 <div class="col-xs-12 col-md-12 text-center slideUp" id="tinding_galing">
-                    <img src="assets/images/tinding_galing_page1.png"
+                    <img src="assets/images/1tinding_galing.png"
                          class="img-responsive center-block">
                 </div>
                 <?php
@@ -545,7 +548,15 @@
                            placeholder="Message topic">
                     <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control"
                               placeholder="Your message" required="required"></textarea>
-                    <button type="sibmit" class="button">Submit</button>
+                    <div class="col-md-6">
+                        <button type="sibmit" class="button">Submit</button>
+                    </div>
+                    <div class="col-md-6 text-center">
+                    <ul class="social-menu text-right x-left">
+                        <li><a href="https://www.facebook.com/LivEverTotalBodySupplement/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    </ul>
+                    </div>
                 </form>
             </div>
         </div>

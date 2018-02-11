@@ -1,10 +1,12 @@
 /* Medium Layout: 1280px. */
 
-@media only screen and (min-width: 992px) and (max-width: 1200px) {}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
 
 /* IPAD PRO*/
 @media only screen and (min-width: 1024px) and (max-width: 1300px) {
-
+ 
     .mainmenu-area #primary-menu > ul > li > a {
         padding: 30px 12px;
     }
@@ -558,6 +560,8 @@
 
 
 }
+
+
 /*
 @media only screen and (min-width: 1024px) and (max-width: 1300px) {
 
