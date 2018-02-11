@@ -1128,6 +1128,9 @@ vertical-align: middle;
 
 .modal-content{
     padding:5%;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    border-radius: 20px !important; 
 }
 
 .modal-dosage,
