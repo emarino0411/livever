@@ -14,23 +14,24 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="shortcut icon" type="image/ico" href="images/favicon.ico"/>
     <!-- Plugin-CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<!--    <link rel="stylesheet" href="css/themify-icons.css">-->
+    <!--    <link rel="stylesheet" href="css/themify-icons.css">-->
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/animate.css">
     <!-- Main-Stylesheets -->
     <link rel="stylesheet" href="css/normalize.css">
-    
+
     <link rel="stylesheet" href="css/livever.css">
     <link rel="stylesheet" href="css/responsive.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link rel="stylesheet" href="css/animations.css">
     <link rel="stylesheet" href="style.css">
 
-    
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -157,11 +158,9 @@
                         <div class="col-xs-8 col-sm-8 col-md-8 col-sm-8 box-description">
 
                             <p class="benefits_label blue">HEALTHY LIVER</p>
-                            <p class="benefits_description blue ">
-
-                            LivEver works as an anti-oxidant and boosts detoxification process, helping to remove
-                            toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle
-                            Extract and Phospatidylcholine.
+                            <p class="components_description blue ">
+                                Boosts detoxification process in the liver by helping flush out harmful toxins and free
+                                radicals.
                             </p>
                         </div>
 
@@ -178,10 +177,8 @@
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">GOOD SLEEP</p>
-                            <p class="benefits_description blue ">
-                                LivEver works in the detoxification process through Turmeric Extract, Alpha Lipoic Acid (ALA),
-                                Milk Thistle Extract and Phosphatidylcholine. It also helps in the production and
-                                metabolism of sleep boosters through Zinc, Thiamin, Pyridoxine and Cyanocobalamin.
+                            <p class="components_description blue ">
+                                Helps produce and metabolize sleep boosters for more restful recovery.
                             </p>
                         </div>
 
@@ -198,10 +195,9 @@
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">GOOD DIGESTION</p>
-                            <p class="benefits_description blue ">
-                                LivEver works as an anti-inflammatory improving intestinal permeability and treat
-                                inflammatory Bowel Diseases through Turmeric Extract, Alpha Lipoic Acid, Calcium
-                                Pantothenate and Zinc.
+                            <p class="components_description blue ">
+                                Improves intestinal permeability for better digestion and treats inflammatory bowel
+                                disease.
                             </p>
                         </div>
                     </div>
@@ -218,9 +214,9 @@
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">HIGH ENERGY</p>
-                            <p class="benefits_description blue ">
-                                LivEver helps in the metabolism of protein, fat and sugars through its 9 potent and
-                                natural components.
+                            <p class="components_description blue ">
+                                Aids in breaking down proteins, fats and sugars in the body for proper utilization as
+                                energy.
                             </p>
                         </div>
                     </div>
@@ -236,9 +232,8 @@
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">MENTAL ALERTNESS</p>
-                            <p class="benefits_description blue ">
-                                LivEver increases the production of neurotransmitters that boost cognitive function
-                                through its 9 potent and natural components.
+                            <p class="components_description blue ">
+                                Increases production of neurotransmitters that improve brainpower, memory and cognition.
                             </p>
                         </div>
                     </div>
@@ -254,9 +249,10 @@
                         </div>
                         <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                             <p class="benefits_label blue">GOOD BLOOD CIRCULATION</p>
-                            <p class="benefits_description blue ">LivEver improves oxygen flow and prevents blood
-                                platelet clots through Turmeric Extract and Phosphatidylcholine. It also prevents
-                                occurrence of strokes and heart diseases.</p>
+                            <p class="components_description blue ">
+                                Enhances oxygen flow throughout the body and helps prevent blood platelet clots, strokes
+                                and heart diseases.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -288,108 +284,107 @@
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
                                     <img src="assets/components/milk_thistle.png"
-                                        class="img-responsive img-circle center-block" alt="">
+                                         class="img-responsive img-circle center-block" alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label olive">MILK THISTLE EXTRACT</p>
                                 <p class="benefits_description olive">
-                                    LivEver works as an anti-oxidant and boosts detoxification process, helping to remove
-                                    toxins and free radicals through Turmeric Extract, Alpha Lipoic Acid, Milk Thistle
-                                    Extract and Phospatidylcholine.
+                                    Protects the liver, kidneys and heart with its amazing antioxidant and
+                                    anti-inflammatory properties. Also contains flavonoligans that help against nerve
+                                    damage and brain aging.
                                 </p>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    
+
                     <div class="box box-olive">
                         <a href="#" data-target="#PHOSPHATIDYLCHOLINE" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
-                                    <img src="assets/components/brocolli.png" class="img-responsive img-circle center-block"
-                                        alt="">
+                                    <img src="assets/components/brocolli.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label_long olive">PHOSPHATIDYLCHOLINE</p>
                                 <p class="benefits_description olive">
-                                    It is made up of phosphates, fatty acids, and Choline. All of these substances have
-                                    great health effects on the brain and body. Phosphatidylcholine slows down brain aging,
-                                    increases neuroplasticity, and boosts brainpower, memory and cognition.
+                                    Made up of phosphate, fatty acids and Choline that significantly slow down brain
+                                    aging by increasing neuroplasticity and cognitive functions.
                                 </p>
                             </div>
-                            
+
                         </a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    
+
                     <div class="box box-olive">
                         <a href="#" data-target="#TURMERIC" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
-                                    <img src="assets/components/turmeric.png" class="img-responsive img-circle center-block"
-                                        alt="">
+                                    <img src="assets/components/turmeric.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
                                 <p class="benefits_description olive">
-                                    Turmeric is known for its potent antioxidative and a powerful anti-inflammatory effect
-                                    for all parts of the body.
+                                    Has a potent antioxidative and anti-inflammatory effect for all parts of the body.
                                 </p>
                             </div>
                         </a>
                     </div>
-                   
+
                 </div>
 
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    
+
                     <div class="box box-olive">
                         <a href="#" data-target="#LIPOIC" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
                                     <img src="assets/components/beans.png"
-                                        class="img-responsive img-circle center-block img-" alt="">
+                                         class="img-responsive img-circle center-block img-" alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label olive">ALPHA LIPOIC ACID</p>
                                 <p class="benefits_description olive">
-                                    Alpha Lipoic Acid considered as the "super antioxidant" that recycles Vitamin C and E,
-                                    Glutathione and CoQ10, which are used up by the body to fight against diseases for aging
-                                    people such as strokes, heart diseases, cataracts and memory loss.
+                                    Considered as the “super antioxidant” that recycles Vitamin C and E, Gluthatione and
+                                    CoQ10 that the body uses to combat diseases for aging people such as stroke, heart
+                                    disease, cataract and memory loss.
                                 </p>
                             </div>
                         </a>
                     </div>
-                    
+
                 </div>
 
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    
+
                     <div class="box box-olive">
                         <a href="#" data-target="#CALCIUM" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive  content">
                                     <img src="assets/components/groundmeat.png"
-                                        class="img-responsive img-circle center-block" alt="">
+                                         class="img-responsive img-circle center-block" alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">CALCIUM PANTOTHENATE</p>
+                                <p class="benefits_label olive">CALCIUM PANTOTHENATE (Vitamin B5)</p>
                                 <p class="benefits_description olive">
-                                    It is also known as Vitamin B5, which regulates energy metabolism and mental stamina.
-                                    Deficiency of Vitamin B5 can lead to fatigue and mood disorders, such as depression and
-                                    irritability.
+                                    Regulates energy metabolism and mental stamina. Helps prevent fatigue and mood
+                                    disorders such as depression and irritability.
                                 </p>
                             </div>
                         </a>
@@ -400,17 +395,17 @@
                         <a href="#" data-target="#THIAMIN" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
-                                    <img src="assets/components/tomato.png" class="img-responsive img-circle center-block"
-                                        alt="">
+                                    <img src="assets/components/tomato.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label olive">THIAMIN (VITAMIN B1)</p>
                                 <p class="benefits_description olive">
-                                    It is used to produce ATP (adenosie triphosphate) that fuel the body to perform
-                                    essential functions. Vitamin B1 is also required for the healthy regulation of sleep
-                                    cycles, brain circulation, and cellular metabolism.
+                                    Helps produce adenosine triphosphate (ATP) that fuels the body to perform essential
+                                    functions such as sleep cycle regulation, brain circulation and cellular metabolism.
                                 </p>
                             </div>
                         </a>
@@ -423,17 +418,18 @@
                         <a href="#" data-target="#PYRIDOXINE" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
-                                    <img src="assets/components/b6.png" class="img-responsive img-circle center-block img-"
-                                        alt="">
+                                    <img src="assets/components/b6.png"
+                                         class="img-responsive img-circle center-block img-"
+                                         alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label olive">PYRIDOXINE (VITAMIN B6)</p>
                                 <p class="benefits_description olive">
-                                    Utilized in energy metabolism processes in your cells as well as in the production of
-                                    neurotransmitters. Low levels of Vitamin B6 can lead to decreased cognitive ability,
-                                    lack of focus or energy, brain tissue shrinkage and Alzheimer's.
+                                    Utilized in energy metabolism in your cells as well as in the production of
+                                    neurotransmitters that increases cognitive ability and focus. It helps prevent brain
+                                    tissue shrinkage and Alzheimer’s disease.
                                 </p>
                             </div>
                         </a>
@@ -445,7 +441,7 @@
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
                                     <img src="assets/components/zinc.png" class="img-responsive img-circle center-block"
-                                        alt="">
+                                         alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
 
@@ -453,7 +449,7 @@
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label olive">ZINC</p>
                                 <p class="benefits_description olive">
-                                    Serves as a cofactor for many enzymatic reactions. Required for normal growth and tissue
+                                    A catalyst for many enzymatic reactions in the body such as normal growth, tissue
                                     repair and wound healing.
                                 </p>
                             </div>
@@ -466,15 +462,15 @@
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
                                 <div class="box-icon-olive content">
                                     <img src="assets/components/egg.png" class="img-responsive img-circle center-block"
-                                        alt="">
+                                         alt="">
                                 </div>
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
                                 <p class="benefits_label_long olive">CYANOCOBALAMIN (VITAMIN B12)</p>
                                 <p class="benefits_description olive">
-                                    It is a water soluble vitamin which has a key role in the normal functioning of the
-                                    brain, nervous system, and the formulation of blood.
+                                    A water-soluble vitamin that plays a key role in normalizing the functions of the
+                                    brain, nervous system and formulation of blood.
                                 </p>
                             </div>
                         </a>
@@ -507,36 +503,45 @@
             </div>
         </div>
         <div class="row overlay-footer">
-            <div class="col-xs-12 col-md-4">
+            <div class="col-xs-12 col-md-6">
                 <address class="side-icon-boxes">
-                    <div class="side-icon-box">
-                        <div class="side-icon">
-                            <img src="images/location-arrow.png" alt="">
+                    <div class="col-md-12">
+                        <div class="col-md-6">
+                            <div class="side-icon-box">
+                                <div class="side-icon">
+                                    <img src="images/location-arrow.png" alt="">
+                                </div>
+                                <p>Unit 202 MGT Guerra Building,<br> 1170 Don Chino Roces Avenue,<br>
+                                    Brgy. San Antonio, Makati City, <br>Philippines</p>
+                            </div>
                         </div>
-                        <p>Unit 202 MGT Guerra Building,<br> 1170 Don Chino Roces Avenue,<br>
-                            Brgy. San Antonio, Makati City, <br>Philippines</p>
-                    </div>
-                    <div class="side-icon-box">
-                        <div class="side-icon">
-                            <img src="images/phone-arrow.png" alt="">
+                        <div class="col-md-6">
+                            <div class="side-icon-box">
+                                <div class="side-icon">
+                                    <img src="images/phone-arrow.png" alt="">
+                                </div>
+                                <p><strong>Telephone: </strong>
+                                    <a style="color:#6C6C6C" href="callto:02-668-9305">(02) 668-9305</a> <br/>
+                                    <a style="color:#6C6C6C" href="callto:+63-917-596-4521">(+63) 917-596-4521</a>
+                                </p>
+                            </div>
                         </div>
-                        <p><strong>Telephone: </strong>
-                            <a style="color:#6C6C6C" href="callto:02-668-9305">(02) 668-9305</a> <br/>
-                            <a style="color:#6C6C6C" href="callto:+63-917-596-4521">(+63) 917-596-4521</a>
-                        </p>
-                    </div>
-                    <div class="side-icon-box">
-                        <div class="side-icon">
-                            <img src="images/mail-arrow.png" alt="">
+                        <div class="col-md-6">
+                            <div class="side-icon-box">
+                                <div class="side-icon">
+                                    <img src="images/mail-arrow.png" alt="">
+                                </div>
+                                <p><strong>E-mail: </strong>
+                                    <a style="color:#6C6C6C"
+                                       href="mailto:livever@mergfilpharma.com">livever@mergfilpharma.com</a>
+                                </p>
+                            </div>
                         </div>
-                        <p><strong>E-mail: </strong>
-                            <a style="color:#6C6C6C"
-                               href="mailto:livever@mergfilpharma.com">livever@mergfilpharma.com</a>
-                        </p>
                     </div>
+
                 </address>
             </div>
-            <div class="col-xs-12 col-md-8">
+            <div class="col-xs-12 col-md-6">
                 <form action="process.php" id="contact-form" method="post" class="contact-form">
                     <div class="form-double">
                         <input type="text" id="form-name" name="form-name" placeholder="Your name" class="form-control"
@@ -552,10 +557,11 @@
                         <button type="sibmit" class="button">Submit</button>
                     </div>
                     <div class="col-md-6 text-center">
-                    <ul class="social-menu text-right x-left">
-                        <li><a href="https://www.facebook.com/LivEverTotalBodySupplement/"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    </ul>
+                        <ul class="social-menu text-right x-left">
+                            <li><a href="https://www.facebook.com/LivEverTotalBodySupplement/"><i
+                                            class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
                     </div>
                 </form>
             </div>
@@ -585,31 +591,31 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/milk_thistle.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">MILK THISTLE EXTRACT (SILYBUM MARIANUM)</h4>
                         <p class="modal-dosage">DOSAGE : 300 mg</p>
                         <p class="modal-dosage-benefits">
-                            <ul class="list-modal">
-                                <li>
-                                    Effective in stimulating function of liver that helps filter toxins out of the blood
-                                </li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>
+                                Effective in stimulating function of liver that helps filter toxins out of the blood
+                            </li>
+                        </ul>
                         </p>
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Control diabetes and lowers risk of heart attack</li>
-                                <li>Give high energy</li>
-                                <li>Promote good sleep</li>
-                                <li>Promote good digestion</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Control diabetes and lowers risk of heart attack</li>
+                            <li>Give high energy</li>
+                            <li>Promote good sleep</li>
+                            <li>Promote good digestion</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -623,26 +629,26 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/brocolli.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">PHOSPHATIDYLCHOLINE</h4>
                         <p class="modal-dosage">DOSAGE : 50 mg</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Support brain health, memory and cognition</li>
-                                <li>Improve blood ow and circulation</li>
-                                <li>Boost detoxification process</li>
-                                <li>Boost energy and endurance</li>
-                                <li>Support healthy digestion</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Support brain health, memory and cognition</li>
+                            <li>Improve blood ow and circulation</li>
+                            <li>Boost detoxification process</li>
+                            <li>Boost energy and endurance</li>
+                            <li>Support healthy digestion</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -658,27 +664,27 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/turmeric.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">TURMERIC EXTRACT (CURCUMA LONGA)</h4>
                         <p class="modal-dosage">DOSAGE : 50 mg</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Enhance brain function</li>
-                                <li>Support cardiovascular function</li>
-                                <li>Boost detoxification</li>
-                                <li>Promote blood circulation</li>
-                                <li>Treat inflammatory bowel diseases</li>
-                                <li>Support joint and muscle health</li>
-                                <li>Promote youthful skin</li>
-                                <li>Enhance mood</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Enhance brain function</li>
+                            <li>Support cardiovascular function</li>
+                            <li>Boost detoxification</li>
+                            <li>Promote blood circulation</li>
+                            <li>Treat inflammatory bowel diseases</li>
+                            <li>Support joint and muscle health</li>
+                            <li>Promote youthful skin</li>
+                            <li>Enhance mood</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -694,25 +700,25 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/beans.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">ALPHA LIPOIC ACID</h4>
                         <p class="modal-dosage">DOSAGE : 50 mg</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Improve brain function</li>
-                                <li>Promote heart health</li>
-                                <li>Boost detoxification</li>
-                                <li>Promote blood circulation</li>
-                                <li>Promote energy</li>
-                                <li>Keep skin healthy and more radiant</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Improve brain function</li>
+                            <li>Promote heart health</li>
+                            <li>Boost detoxification</li>
+                            <li>Promote blood circulation</li>
+                            <li>Promote energy</li>
+                            <li>Keep skin healthy and more radiant</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -728,27 +734,27 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/groundmeat.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">CALCIUM PANTOTHENATE</h4>
                         <p class="modal-dosage">DOSAGE : 4.4 mg</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Regulate energy metabolism</li>
-                                <li>Improve mental stamina</li>
-                                <li>Reduce stress</li>
-                                <li>Improve cardiovascular health </li>
-                                <li>Maintain nerve function</li>
-                                <li>In detoxification process</li>
-                                <li>Prevent fatigue</li>
-                                <li>Aide in immune function</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Regulate energy metabolism</li>
+                            <li>Improve mental stamina</li>
+                            <li>Reduce stress</li>
+                            <li>Improve cardiovascular health</li>
+                            <li>Maintain nerve function</li>
+                            <li>In detoxification process</li>
+                            <li>Prevent fatigue</li>
+                            <li>Aide in immune function</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -764,25 +770,25 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/tomato.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">THIAMIN (VITAMIN B1)</h4>
                         <p class="modal-dosage">DOSAGE : 1.1 mg RENI 92%</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Improve memory</li>
-                                <li>Maintain a healthy heart</li>
-                                <li>Promote energy</li>
-                                <li>Protect your body from signs of aging such as wrinkles and lines</li>
-                                <li>Improve quality of sleep</li>
-                                <li>Promote good digestion</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Improve memory</li>
+                            <li>Maintain a healthy heart</li>
+                            <li>Promote energy</li>
+                            <li>Protect your body from signs of aging such as wrinkles and lines</li>
+                            <li>Improve quality of sleep</li>
+                            <li>Promote good digestion</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -798,25 +804,25 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/b6.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">PYRIDOXINE (VITAMIN B6)</h4>
                         <p class="modal-dosage">DOSAGE : 1.3 mg RENI 100%</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Enhance mood and increase alertness</li>
-                                <li>Promote in energy production</li>
-                                <li>Increase stamina</li>
-                                <li>Maintain healthy blood vessels</li>
-                                <li>Produce red blood cells</li>
-                                <li>Promote good digestion</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Enhance mood and increase alertness</li>
+                            <li>Promote in energy production</li>
+                            <li>Increase stamina</li>
+                            <li>Maintain healthy blood vessels</li>
+                            <li>Produce red blood cells</li>
+                            <li>Promote good digestion</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -832,26 +838,26 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/zinc.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">ZINC (eq. to 17.53 mg Zinc Sulfate)</h4>
                         <p class="modal-dosage">DOSAGE : 6.4 mg RENI 98%</p>
-                      
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Maintain strong brain function</li>
-                                <li>Promote cardiovascular health</li>
-                                <li>Boost energy levels</li>
-                                <li>Improve digestion</li>
-                                <li>In nutrient absorption</li>
-                                <li>Improve immune system</li>
-                                <li>Promote good sleep</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Maintain strong brain function</li>
+                            <li>Promote cardiovascular health</li>
+                            <li>Boost energy levels</li>
+                            <li>Improve digestion</li>
+                            <li>In nutrient absorption</li>
+                            <li>Improve immune system</li>
+                            <li>Promote good sleep</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -867,25 +873,25 @@
                     <div class="col-md-12">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <img src="assets/components/modal/egg.png"
-                            class="img-responsive img-circle center-block" 
-                            style="background-color:rgb(199,210,130)" alt="">
+                             class="img-responsive img-circle center-block"
+                             style="background-color:rgb(199,210,130)" alt="">
                     </div>
                     <div class="col-md-12">
                         <h4 class="modal-label text-center">CYANOCOBALAMIN (VITAMIN B12)</h4>
-                        <p class="modal-dosage">DOSAGE : 2.4  mCg RENI 100%</p>
-                      
+                        <p class="modal-dosage">DOSAGE : 2.4 mCg RENI 100%</p>
+
                         <p class="modal-benefits">HELPS:</p>
                         <p class="modal-benefits-list">
-                            <ul class="list-modal">
-                                <li>Enhance mood and memory</li>
-                                <li>In the formulation of blood</li>
-                                <li>Protect the heart</li>
-                                <li>Promote good digestion </li>
-                                <li>Promote high energy</li>
-                                <li>Promote good sleep</li>
-                            </ul>
+                        <ul class="list-modal">
+                            <li>Enhance mood and memory</li>
+                            <li>In the formulation of blood</li>
+                            <li>Protect the heart</li>
+                            <li>Promote good digestion</li>
+                            <li>Promote high energy</li>
+                            <li>Promote good sleep</li>
+                        </ul>
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -895,7 +901,9 @@
 
 <!--Vendor-JS-->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
 <!--Plugin-JS-->
 <script src="js/owl.carousel.min.js"></script>
 <!--<script src="js/contact-form.js"></script>-->
