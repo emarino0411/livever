@@ -1,6 +1,78 @@
 /* Medium Layout: 1280px. */
 
-@media only screen and (min-width: 992px) and (max-width: 1200px) {
+@media only screen and (min-width: 1387px) {
+
+    .mainmenu-area #primary-menu > ul > li > a {
+        padding: 30px 12px;
+    }
+    .header-area {
+        padding-top: 80px;
+    }
+    .price-table,
+    .box {
+        padding: 0;
+    }
+    .price-table.active {
+        padding: 50px 15px;
+    }
+    .single-team {
+        margin-bottom: 30px
+    }
+    .side-icon-boxes {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    #dp {
+        position: absolute;
+        /*left: 30%;*/
+        margin: -20% auto;
+        z-index: 2;
+        text-align: center;
+        width: 100%;
+
+    }
+
+
+    #benefits_icons {
+        position: relative;
+        padding: 23% 5% 5%;
+    }
+
+    #dp_ingredients {
+        position: absolute;
+        /*left: 30%;*/
+        margin: -20% auto;
+        z-index: 2;
+        text-align: center;
+        width: 100%;
+    }
+
+    #ingredients_icons {
+        position: relative;
+        padding: 24% 5% 5%;
+    }
+
+
+    .benefits_label {
+        margin: 0;
+        line-height:20px;
+        font-size:8px;
+        padding:3% 0;
+    }
+    .benefits_description{
+        font-size:10px;
+    }
+
+    .components_description{
+        font-size:10px;
+    }
 
 }
 
@@ -72,11 +144,11 @@
         padding:3% 0;
     }
     .benefits_description{
-        font-size:11px;
+        font-size:9px;
     }
 
     .components_description{
-        font-size:11px;
+        font-size:9px;
     }
 
 }
@@ -212,6 +284,13 @@
 
         border-left: 20px solid #C7D282;
     }
+    .benefits_description{
+        font-size:13px;
+    }
+
+    .components_description{
+        font-size:13px;
+    }
 }
 
 /* Tablet Layout: 768px. */
@@ -346,10 +425,11 @@
     #dp {
         position: absolute;
         /*left: 30%;*/
-        margin: -55% auto;
+        margin: -40% auto;
         z-index: 2;
         text-align: center;
         width: 100%;
+
     }
 
     #benefits_icons {
@@ -460,6 +540,13 @@
         padding: 50% 5% 5%;
     }
 
+    .benefits_description{
+        font-size:9px;
+    }
+
+    .components_description{
+        font-size:10px;
+    }
 }
 
 
