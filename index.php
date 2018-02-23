@@ -289,7 +289,7 @@
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">MILK THISTLE EXTRACT</p>
+                                <p class="benefits_label_long olive">MILK THISTLE EXTRACT</p>
                                 <p class="benefits_description olive">
                                     Protects the liver, kidneys and heart with its amazing antioxidant and
                                     anti-inflammatory properties. Also contains flavonoligans that help against nerve
@@ -335,7 +335,7 @@
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
+                                <p class="benefits_label_long olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
                                 <p class="benefits_description olive">
                                     Has a potent antioxidative and anti-inflammatory effect for all parts of the body.
                                 </p>
@@ -357,7 +357,7 @@
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">ALPHA LIPOIC ACID</p>
+                                <p class="benefits_label_long olive">ALPHA LIPOIC ACID</p>
                                 <p class="benefits_description olive">
                                     Considered as the “super antioxidant” that recycles Vitamin C and E, Gluthatione and
                                     CoQ10 that the body uses to combat diseases for aging people such as stroke, heart
@@ -381,7 +381,7 @@
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">CALCIUM PANTOTHENATE (Vitamin B5)</p>
+                                <p class="benefits_label_long olive">CALCIUM PANTOTHENATE (Vitamin B5)</p>
                                 <p class="benefits_description olive">
                                     Regulates energy metabolism and mental stamina. Helps prevent fatigue and mood
                                     disorders such as depression and irritability.
@@ -402,7 +402,7 @@
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">THIAMIN (VITAMIN B1)</p>
+                                <p class="benefits_label_long olive">THIAMIN (VITAMIN B1)</p>
                                 <p class="benefits_description olive">
                                     Helps produce adenosine triphosphate (ATP) that fuels the body to perform essential
                                     functions such as sleep cycle regulation, brain circulation and cellular metabolism.
@@ -425,7 +425,7 @@
                                 <div class="arrow-right-olive"></div>
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">PYRIDOXINE (VITAMIN B6)</p>
+                                <p class="benefits_label_long olive">PYRIDOXINE (VITAMIN B6)</p>
                                 <p class="benefits_description olive">
                                     Utilized in energy metabolism in your cells as well as in the production of
                                     neurotransmitters that increases cognitive ability and focus. It helps prevent brain
@@ -447,7 +447,7 @@
 
                             </div>
                             <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label olive">ZINC</p>
+                                <p class="benefits_label_long olive">ZINC</p>
                                 <p class="benefits_description olive">
                                     A catalyst for many enzymatic reactions in the body such as normal growth, tissue
                                     repair and wound healing.
