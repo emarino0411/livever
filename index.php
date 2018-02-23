@@ -521,8 +521,7 @@
                                     <img src="images/phone-arrow.png" alt="">
                                 </div>
                                 <p><strong>Telephone: </strong>
-                                    <a style="color:#6C6C6C" href="callto:02-668-9305">(02) 668-9305</a> <br/>
-                                    <a style="color:#6C6C6C" href="callto:+63-917-596-4521">(+63) 917-596-4521</a>
+                                    <a style="color:#6C6C6C" href="callto:02-838-4534">(02) 838-4534</a>
                                 </p>
                             </div>
                         </div>
