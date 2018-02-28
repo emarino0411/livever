@@ -744,7 +744,6 @@ input:-webkit-autofill:focus {
 .testimonial-area {
     background: transparent;
     position: relative;
-    color: #ffffff;
 }
 
 .testimonial-area:before {
@@ -760,8 +759,6 @@ input:-webkit-autofill:focus {
     display: inline-block;
     margin-right: 30px;
     border-radius: 50%;
-    -webkit-box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
-    box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
     position: relative;
 }
 

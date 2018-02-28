@@ -278,6 +278,106 @@
         <div id="ingredients_icons">
             <div class="row text-center">
                 <!--First column first 3-->
+
+
+
+                <!--thistle-->
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                    <div class="box box-olive">
+                        <a href="#" data-target="#THISTLE" data-toggle="modal">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                                <div class="box-icon-olive content">
+                                    <img src="assets/components/milk_thistle.png"
+                                         class="img-responsive img-circle center-block" alt="">
+                                </div>
+                                <div class="arrow-right-olive"></div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label_long olive">MILK THISTLE EXTRACT</p>
+                                <p class="benefits_description olive">
+                                    Protects the liver, kidneys and heart with its amazing antioxidant and
+                                    anti-inflammatory properties. Also contains Flavonolignans that help against nerve
+                                    damage and brain aging.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!--posphatidycholine-->
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="box box-olive">
+                        <a href="#" data-target="#PHOSPHATIDYLCHOLINE" data-toggle="modal">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                                <div class="box-icon-olive content">
+                                    <img src="assets/components/brocolli.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
+                                </div>
+                                <div class="arrow-right-olive"></div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label_long olive">PHOSPHATIDYLCHOLINE</p>
+                                <p class="benefits_description olive">
+                                    Made up of phosphate, fatty acids and Choline that significantly slow down brain
+                                    aging by increasing neuroplasticity and cognitive functions.
+                                </p>
+                            </div>
+
+                        </a>
+                    </div>
+                </div>
+
+                <!--turmeric-->
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="box box-olive">
+                        <a href="#" data-target="#TURMERIC" data-toggle="modal">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                                <div class="box-icon-olive content">
+                                    <img src="assets/components/turmeric.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
+                                </div>
+                                <div class="arrow-right-olive"></div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label_long olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
+                                <p class="benefits_description olive">
+                                    Has a potent antioxidative and anti-inflammatory effect for all parts of the body.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+                <!-- lipoic -->
+                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+
+                    <div class="box box-olive">
+                        <a href="#" data-target="#LIPOIC" data-toggle="modal">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
+                                <div class="box-icon-olive content">
+                                    <img src="assets/components/beans.png"
+                                         class="img-responsive img-circle center-block img-" alt="">
+                                </div>
+                                <div class="arrow-right-olive"></div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label_long olive">ALPHA LIPOIC ACID</p>
+                                <p class="benefits_description olive">
+                                    Considered as the “super antioxidant” that recycles Vitamin C and E, Glutathione and
+                                    CoQ10 that the body uses to combat diseases for aging people such as stroke, heart
+                                    disease, cataract and memory loss.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
                 <!--calcium-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
 
@@ -301,6 +401,7 @@
                     </div>
                 </div>
 
+
                 <!--zinc-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -323,6 +424,8 @@
                         </a>
                     </div>
                 </div>
+
+
 
                 <!--thiamin-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
@@ -372,6 +475,8 @@
                     </div>
                 </div>
 
+
+
                 <!--cyanocobalamin-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -393,105 +498,6 @@
                         </a>
                     </div>
                 </div>
-
-
-                <!--thistle-->
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box box-olive">
-                        <a href="#" data-target="#THISTLE" data-toggle="modal">
-                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/milk_thistle.png"
-                                         class="img-responsive img-circle center-block" alt="">
-                                </div>
-                                <div class="arrow-right-olive"></div>
-                            </div>
-                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label_long olive">MILK THISTLE EXTRACT</p>
-                                <p class="benefits_description olive">
-                                    Protects the liver, kidneys and heart with its amazing antioxidant and
-                                    anti-inflammatory properties. Also contains Flavonolignans that help against nerve
-                                    damage and brain aging.
-                                </p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- lipoic -->
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-
-                    <div class="box box-olive">
-                        <a href="#" data-target="#LIPOIC" data-toggle="modal">
-                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/beans.png"
-                                         class="img-responsive img-circle center-block img-" alt="">
-                                </div>
-                                <div class="arrow-right-olive"></div>
-                            </div>
-                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label_long olive">ALPHA LIPOIC ACID</p>
-                                <p class="benefits_description olive">
-                                    Considered as the “super antioxidant” that recycles Vitamin C and E, Glutathione and
-                                    CoQ10 that the body uses to combat diseases for aging people such as stroke, heart
-                                    disease, cataract and memory loss.
-                                </p>
-                            </div>
-                        </a>
-                    </div>
-
-                </div>
-
-
-                <!--posphatidycholine-->
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-
-                    <div class="box box-olive">
-                        <a href="#" data-target="#PHOSPHATIDYLCHOLINE" data-toggle="modal">
-                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/brocolli.png"
-                                         class="img-responsive img-circle center-block"
-                                         alt="">
-                                </div>
-                                <div class="arrow-right-olive"></div>
-                            </div>
-                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label_long olive">PHOSPHATIDYLCHOLINE</p>
-                                <p class="benefits_description olive">
-                                    Made up of phosphate, fatty acids and Choline that significantly slow down brain
-                                    aging by increasing neuroplasticity and cognitive functions.
-                                </p>
-                            </div>
-
-                        </a>
-                    </div>
-                </div>
-                <!--turmeric-->
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-
-                    <div class="box box-olive">
-                        <a href="#" data-target="#TURMERIC" data-toggle="modal">
-                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
-                                <div class="box-icon-olive content">
-                                    <img src="assets/components/turmeric.png"
-                                         class="img-responsive img-circle center-block"
-                                         alt="">
-                                </div>
-                                <div class="arrow-right-olive"></div>
-                            </div>
-                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                                <p class="benefits_label_long olive">TURMERIC EXTRACT (CURCUMA LONGA)</p>
-                                <p class="benefits_description olive">
-                                    Has a potent antioxidative and anti-inflammatory effect for all parts of the body.
-                                </p>
-                            </div>
-                        </a>
-                    </div>
-
-                </div>
-
 
 
             </div>
@@ -520,7 +526,7 @@
             </div>
         </div>
         <div class="row overlay-footer">
-            <div class="col-xs-12 col-md-6">
+            <div class="col-xs-12 col-md-7">
                 <address class="side-icon-boxes">
                     <div class="col-md-12">
                         <div class="col-md-6">
@@ -557,7 +563,7 @@
 
                 </address>
             </div>
-            <div class="col-xs-12 col-md-6">
+            <div class="col-xs-12 col-md-5">
                 <form action="process.php" id="contact-form" method="post" class="contact-form">
                     <div class="form-double">
                         <input type="text" id="form-name" name="form-name" placeholder="Your name" class="form-control"
