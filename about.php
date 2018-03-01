@@ -680,7 +680,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <p>&copy; LivEver Copyright 2018 All right reserved.</a></p>
+                    <p>&copy; LivEver Copyright 2018.</p>
                 </div>
             </div>
         </div>
