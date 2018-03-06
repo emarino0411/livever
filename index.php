@@ -145,118 +145,126 @@
         </div>
         <div id="benefits_icons">
             <div class="row text-center">
-                <!--First column first 3-->
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box box-blue">
-                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
-                            <div class="box-icon content">
-                                <img src="assets/benefits/healthyliver.png"
-                                     class="img-responsive img-circle center-block" alt="">
+                <div class="row" style="margin-bottom:1%;">
+                    <!--First column first 3-->
+                    <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                        <div class="box box-blue">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                                <div class="box-icon content">
+                                    <img src="assets/benefits/healthyliver.png"
+                                         class="img-responsive img-circle center-block" alt="">
+                                </div>
+                                <div class="arrow-right-blue"></div>
                             </div>
-                            <div class="arrow-right-blue"></div>
-                        </div>
-                        <div class="col-xs-8 col-sm-8 col-md-8 col-sm-8 box-description">
+                            <div class="col-xs-8 col-sm-8 col-md-8 col-sm-8 box-description">
 
-                            <p class="benefits_label blue">HEALTHY LIVER</p>
-                            <p class="components_description blue ">
-                                Boosts detoxification process in the liver by helping flush out harmful toxins and free
-                                radicals.
-                            </p>
-                        </div>
+                                <p class="benefits_label blue">HEALTHY LIVER</p>
+                                <p class="components_description blue ">
+                                    Boosts detoxification process in the liver by helping flush out harmful toxins and
+                                    free
+                                    radicals.
+                                </p>
+                            </div>
 
+                        </div>
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box">
-                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
-                            <div class="box-icon content">
-                                <img src="assets/benefits/goodsleep.png" class="img-responsive img-circle center-block"
-                                     alt="">
+                    <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                        <div class="box box-blue">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                                <div class="box-icon content">
+                                    <img src="assets/benefits/goodsleep.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
+                                </div>
+                                <div class="arrow-right-blue"></div>
                             </div>
-                            <div class="arrow-right-blue"></div>
-                        </div>
-                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label blue">GOOD SLEEP</p>
-                            <p class="components_description blue ">
-                                Helps produce and metabolize sleep boosters for more restful recovery.
-                            </p>
-                        </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label blue">GOOD SLEEP</p>
+                                <p class="components_description blue ">
+                                    Helps produce and metabolize sleep boosters for more restful recovery.
+                                </p>
+                            </div>
 
+                        </div>
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box box-blue">
-                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
-                            <div class="box-icon content">
-                                <img src="assets/benefits/digestion.png" class="img-responsive img-circle center-block"
-                                     alt="">
+                    <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                        <div class="box box-blue">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                                <div class="box-icon content">
+                                    <img src="assets/benefits/digestion.png"
+                                         class="img-responsive img-circle center-block"
+                                         alt="">
+                                </div>
+                                <div class="arrow-right-blue"></div>
                             </div>
-                            <div class="arrow-right-blue"></div>
-                        </div>
-                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label blue">GOOD DIGESTION</p>
-                            <p class="components_description blue ">
-                                Improves intestinal permeability for better digestion and treats inflammatory bowel
-                                disease.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box">
-                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
-                            <div class="box-icon content">
-                                <img src="assets/benefits/highenergy.png"
-                                     class="img-responsive img-circle center-block img-" alt="">
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label blue">GOOD DIGESTION</p>
+                                <p class="components_description blue ">
+                                    Improves intestinal permeability for better digestion and treats inflammatory bowel
+                                    disease.
+                                </p>
                             </div>
-                            <div class="arrow-right-blue"></div>
-                        </div>
-                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label blue">HIGH ENERGY</p>
-                            <p class="components_description blue ">
-                                Aids in breaking down proteins, fats and sugars in the body for proper utilization as
-                                energy.
-                            </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box box-blue">
-                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
-                            <div class="box-icon content">
-                                <img src="assets/benefits/mentalalertness.png"
-                                     class="img-responsive img-circle center-block" alt="">
+                <div class="row" style="margin-bottom:1%;">
+                    <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                        <div class="box box-blue">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                                <div class="box-icon content">
+                                    <img src="assets/benefits/highenergy.png"
+                                         class="img-responsive img-circle center-block img-" alt="">
+                                </div>
+                                <div class="arrow-right-blue"></div>
                             </div>
-                            <div class="arrow-right-blue"></div>
-                        </div>
-                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label blue">MENTAL ALERTNESS</p>
-                            <p class="components_description blue ">
-                                Increases production of neurotransmitters that improve brainpower, memory and cognition.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-                    <div class="box">
-                        <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
-                            <div class="box-icon content">
-                                <img src="assets/benefits/bloodcirculation.png"
-                                     class="img-responsive img-circle center-block" alt="">
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label blue">HIGH ENERGY</p>
+                                <p class="components_description blue ">
+                                    Aids in breaking down proteins, fats and sugars in the body for proper utilization
+                                    as
+                                    energy.
+                                </p>
                             </div>
-                            <div class="arrow-right-blue"></div>
                         </div>
-                        <div class="col-xs-8 col-sm-8 col-md-8 box-description">
-                            <p class="benefits_label blue">GOOD BLOOD CIRCULATION</p>
-                            <p class="components_description blue ">
-                                Enhances oxygen flow throughout the body and helps prevent blood platelet clots, strokes
-                                and heart diseases.
-                            </p>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                        <div class="box box-blue">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                                <div class="box-icon content">
+                                    <img src="assets/benefits/mentalalertness.png"
+                                         class="img-responsive img-circle center-block" alt="">
+                                </div>
+                                <div class="arrow-right-blue"></div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label blue">MENTAL ALERTNESS</p>
+                                <p class="components_description blue ">
+                                    Increases production of neurotransmitters that improve brainpower, memory and
+                                    cognition.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
+                        <div class="box box-blue">
+                            <div class="col-xs-4 col-sm-4 col-md-4 box-icon">
+                                <div class="box-icon content">
+                                    <img src="assets/benefits/bloodcirculation.png"
+                                         class="img-responsive img-circle center-block" alt="">
+                                </div>
+                                <div class="arrow-right-blue"></div>
+                            </div>
+                            <div class="col-xs-8 col-sm-8 col-md-8 box-description">
+                                <p class="benefits_label blue">GOOD BLOOD CIRCULATION</p>
+                                <p class="components_description blue ">
+                                    Enhances oxygen flow throughout the body and helps prevent blood platelet clots,
+                                    strokes
+                                    and heart diseases.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
@@ -276,11 +284,9 @@
             <img class="img-responsive center-block" src="assets/images/9_ingredients_page3.png">
         </div>
         <div id="ingredients_icons">
-            <div class="row text-center">
+
+            <div class="row text-center" style="margin-bottom:1%;">
                 <!--First column first 3-->
-
-
-
                 <!--thistle-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -303,7 +309,6 @@
                         </a>
                     </div>
                 </div>
-
                 <!--posphatidycholine-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
 
@@ -328,10 +333,8 @@
                         </a>
                     </div>
                 </div>
-
                 <!--turmeric-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
-
                     <div class="box box-olive">
                         <a href="#" data-target="#TURMERIC" data-toggle="modal">
                             <div class="col-xs-4 col-sm-4 col-md-4 box-icon-olive">
@@ -352,7 +355,8 @@
                     </div>
 
                 </div>
-
+            </div>
+            <div class="row text-center" style="margin-bottom:1%;">
                 <!-- lipoic -->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
 
@@ -377,7 +381,6 @@
                     </div>
 
                 </div>
-
                 <!--calcium-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
 
@@ -400,8 +403,6 @@
                         </a>
                     </div>
                 </div>
-
-
                 <!--zinc-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -424,9 +425,8 @@
                         </a>
                     </div>
                 </div>
-
-
-
+            </div>
+            <div class="row text-center" style="margin-bottom:1%;">
                 <!--thiamin-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -449,8 +449,6 @@
                         </a>
                     </div>
                 </div>
-
-
                 <!--pyridoxine-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -474,9 +472,6 @@
                         </a>
                     </div>
                 </div>
-
-
-
                 <!--cyanocobalamin-->
                 <div class="col-xs-12 col-sm-12 col-md-4 padding-0">
                     <div class="box box-olive">
@@ -498,10 +493,10 @@
                         </a>
                     </div>
                 </div>
-
-
             </div>
+
         </div>
+    </div>
     </div>
 
     </div>

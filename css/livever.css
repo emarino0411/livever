@@ -100,9 +100,16 @@ small{
 #tinding_galing , #dp, #dp_ingredients{
     visibility: hidden;
 }
+
 .box-blue{
     background-color: rgb(228,243,244) !important;
+    min-height:150px;
+    display: table;
+
+
 }
 .box-olive{
     background-color:rgb(225,225,225) !important;
+    display:inline-table;
+    min-height:200px;
 }
