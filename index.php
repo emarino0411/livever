@@ -99,34 +99,25 @@
             $files = array_diff(scandir($path), array('.', '..'));
 
             ?>
-            <?php if (count($files) > 1) {
-                ?>
-                <div class="col-xs-12 col-sm-12 col-md-12 text-center" style="max-height:600px; overflow: hidden">
-                    <div class="testimonials">
-                        <?php
-                        foreach ($files as $picture) {
-                            ?>
-                            <div class="testimonial">
-                                <div class="testimonial-photo">
-                                    <img src="assets/carousel/<?php echo $picture; ?>"
-                                         alt="" class="img-responsive center-block">
-                                </div>
-                            </div>
-                            <?php
-                        }
-                        ?>
-                    </div>
 
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center" style="max-height:600px; overflow: hidden">
+                <div class="testimonials">
+                    <?php
+                    foreach ($files as $picture) {
+                        ?>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="assets/carousel/<?php echo $picture; ?>"
+                                     alt="" class="img-responsive center-block">
+                            </div>
+                        </div>
+                        <?php
+                    }
+                    ?>
                 </div>
-                <?php
-            } else {
-                ?>
-                <div class="col-xs-12 col-md-12 text-center slideUp" id="tinding_galing">
-                    <img src="assets/images/1tinding_galing.png"
-                         class="img-responsive center-block">
-                </div>
-                <?php
-            } ?>
+
+            </div>
+                
 
         </div>
 </header>
